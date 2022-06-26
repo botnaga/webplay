@@ -1,0 +1,436 @@
+{
+  "author": "YuzzuKamiyaka",
+  "result": {
+    "code": 200,
+    "status": "OK",
+    "messages": "Result of all news in Kumparan News",
+    "total": 25,
+    "data": [
+      {
+        "creator": "kumparanNEWS",
+        "title": "KMP Nusa Dua Mati Mesin di Perairan Gilimanuk, 160 Penumpang Berhasil Dievakuasi",
+        "link": "https://kumparan.com/kumparannews/kmp-nusa-dua-mati-mesin-di-perairan-gilimanuk-160-penumpang-berhasil-dievakuasi-1yLTwcviZkL",
+        "author": "Salmah Muslimah",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T04:00:22.000Z",
+        "description": "Semua penumpang berhasil dievakuasi dalam kondisi selamat. #kumparanNews",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6f1m6xvmzx003ygdxbd5ren.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6f1m6xvmzx003ygdxbd5ren.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6f1m6xvmzx003ygdxbd5ren.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6f1m6xvmzx003ygdxbd5ren.jpg"
+        }
+      },
+      {
+        "creator": "kumparanFOOD",
+        "title": "Selain ke Tubuh, Parfum Es Krim Ini Bisa Disemprotkan ke Makanan Juga, Lho!",
+        "link": "https://kumparan.com/kumparanfood/selain-ke-tubuh-parfum-es-krim-ini-bisa-disemprotkan-ke-makanan-juga-lho-1yKhjOMu3N2",
+        "author": "Azalia Amadea",
+        "categories": [
+          "Food & Travel"
+        ],
+        "isoDate": "2022-06-26T03:58:49.000Z",
+        "description": "Parfum ini terbuat dari bahan yang bisa dimakan. Jadi, kamu aman untuk mencicipi dessert yang disemprotkan parfum ini. #kumparanFOOD",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/0180e100f852b903702c1ce87fbf4268.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/0180e100f852b903702c1ce87fbf4268.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/0180e100f852b903702c1ce87fbf4268.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/0180e100f852b903702c1ce87fbf4268.jpg"
+        }
+      },
+      {
+        "creator": "kumparanNEWS",
+        "title": "Polling: Siapa Jagoan Anda di 3 Capres Versi NasDem?",
+        "link": "https://kumparan.com/kumparannews/polling-siapa-jagoan-anda-di-3-capres-versi-nasdem-1yJ8Mi4Nytl",
+        "author": "Rinjani Meisa Hayashi",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-20T08:22:49.000Z",
+        "description": "Anies, Andika, dan Ganjar jadi capres versi NasDem. Anda pilih siapa? #kumparanNEWS",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/018173313c05a2e5e23173469da86f34.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/018173313c05a2e5e23173469da86f34.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/018173313c05a2e5e23173469da86f34.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/018173313c05a2e5e23173469da86f34.jpg"
+        }
+      },
+      {
+        "creator": "kumparanBISNIS",
+        "title": "Ada Jejak Noni Belanda di Sumur Minyak Tua Indonesia di Balikpapan",
+        "link": "https://kumparan.com/kumparanbisnis/ada-jejak-noni-belanda-di-sumur-minyak-tua-indonesia-di-balikpapan-1yLSM3mfaMn",
+        "author": "Wendiyanto Saputro",
+        "categories": [
+          "Bisnis"
+        ],
+        "isoDate": "2022-06-26T03:35:40.000Z",
+        "description": "Balikpapan dikenal sebagai salah satu kota minyak di Indonesia. Ada jejak Noni Belanda di salah satu sumur minyak berusia 125 tahun.",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1640224477/oxznh1ccirp6qxvi3onb.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1640224477/oxznh1ccirp6qxvi3onb.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1640224477/oxznh1ccirp6qxvi3onb.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1640224477/oxznh1ccirp6qxvi3onb.jpg"
+        }
+      },
+      {
+        "creator": "kumparanNEWS",
+        "title": "Jokowi Terbang Temui Zelensky dan Putin, Ingin Dialog Hentikan Perang-Kelaparan",
+        "link": "https://kumparan.com/kumparannews/jokowi-terbang-temui-zelensky-dan-putin-ingin-dialog-hentikan-perang-kelaparan-1yLTaWfco8G",
+        "author": "Wisnu Prasetiyo",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:33:26.000Z",
+        "description": "Presiden Jokowi hari ini bertolak menuju Eropa dalam rangka kunjungan kerja (kunker). Negara pertama yang dikunjungi Jokowi adalah Jerman. Di Jerman ia akan menghadiri KTT G-7. #kumparanNews",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1593499964/tks4mwo19zyl65ra5vow.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1593499964/tks4mwo19zyl65ra5vow.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1593499964/tks4mwo19zyl65ra5vow.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1593499964/tks4mwo19zyl65ra5vow.jpg"
+        }
+      },
+      {
+        "creator": "Manado Bacirita",
+        "title": "Calon Jemaah Haji Asal Sulawesi Utara Mulai Tiba di Asrama Haji",
+        "link": "https://kumparan.com/manadobacirita/calon-jemaah-haji-asal-sulawesi-utara-mulai-tiba-di-asrama-haji-1yLU25dB37d",
+        "author": "Tim Manado Bacirita",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:56:17.000Z",
+        "description": "Calon jemaah haji asal Sulawesi Utara pada tahun 2022 ini berjumlah 323 orang yang terdiri dari 208 calon jemaah haji perempuan dan 114 laki-laki. #publisherstory",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6f2dd1f44w75s4d42cvkxax.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6f2dd1f44w75s4d42cvkxax.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6f2dd1f44w75s4d42cvkxax.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6f2dd1f44w75s4d42cvkxax.jpg"
+        }
+      },
+      {
+        "creator": "kumparanNEWS",
+        "title": "Foto: Penyuntikan Vaksin PMK di Berbagai Daerah di Indonesia",
+        "link": "https://kumparan.com/kumparannews/foto-penyuntikan-vaksin-pmk-di-berbagai-daerah-di-indonesia-1yLTYnbjjIs",
+        "author": "Dicky Adam Sidiq",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:55:07.000Z",
+        "description": "Penyuntikan vaksin dilakukan untuk mencegah penyebaran wabah PMK kepada hewan ternak. #kumparanNEWS",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6ezrnv732nmxrddsavgh4gx.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6ezrnv732nmxrddsavgh4gx.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6ezrnv732nmxrddsavgh4gx.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6ezrnv732nmxrddsavgh4gx.jpg"
+        }
+      },
+      {
+        "creator": "kumparanNEWS",
+        "title": "KPU Umumkan 16 Parpol Sudah Daftar Jelang Pemilu 2024, Ada 7 yang Baru",
+        "link": "https://kumparan.com/kumparannews/kpu-umumkan-16-parpol-sudah-daftar-jelang-pemilu-2024-ada-7-yang-baru-1yLTWrxMB7k",
+        "author": "Wisnu Prasetiyo",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:26:39.000Z",
+        "description": "Komisi Pemilihan Umum (KPU) RI telah membuka pendaftaran akun Sistem Informasi Partai Politik (Sipol) bagi partai politik jelang Pemilu 2024. #kumparanNews",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1613499589/fxhxj86iifhwbhiaksek.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1613499589/fxhxj86iifhwbhiaksek.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1613499589/fxhxj86iifhwbhiaksek.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1613499589/fxhxj86iifhwbhiaksek.jpg"
+        }
+      },
+      {
+        "creator": "kumparanNEWS",
+        "title": "Foto: Kondisi Bus Rombongan SD yang Terperosok ke Jurang di Tasikmalaya",
+        "link": "https://kumparan.com/kumparannews/foto-kondisi-bus-rombongan-sd-yang-terperosok-ke-jurang-di-tasikmalaya-1yLT7dhJpma",
+        "author": "Dicky Adam Sidiq",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:53:27.000Z",
+        "description": "Dalam kecelakaan ini, 56 penumpang mengalami luka-luka. Sementara 3 orang dikabarkan tewas. #kumparanNEWS",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6exee2jdpvtwyykpphb7pw8.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6exee2jdpvtwyykpphb7pw8.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6exee2jdpvtwyykpphb7pw8.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6exee2jdpvtwyykpphb7pw8.jpg"
+        }
+      },
+      {
+        "creator": "Kanal Bali",
+        "title": "Kapal Penyeberangan Ketapang- Gilimanuk Mati Mesin, 160 Penumpang Dievakuasi",
+        "link": "https://kumparan.com/kanalbali/kapal-penyeberangan-ketapang-gilimanuk-mati-mesin-160-penumpang-dievakuasi-1yLTjE4eDDE",
+        "author": "Tim Kanal Bali",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:46:50.000Z",
+        "description": "Kapal itu  mengalami mati mesin dan kandas di Perairan Gilimanuk, Jembrana, Bali, pada Minggu (26/6) sekitar pukul 04.10 WITA.  #publisherstory",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6f1k7bkgjm44fehg61d3376.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6f1k7bkgjm44fehg61d3376.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6f1k7bkgjm44fehg61d3376.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6f1k7bkgjm44fehg61d3376.jpg"
+        }
+      },
+      {
+        "creator": "Palu Poso",
+        "title": "Wali Kota Palu Identifikasi Masalah yang Dihadapi Warga",
+        "link": "https://kumparan.com/paluposo/wali-kota-palu-identifikasi-masalah-yang-dihadapi-warga-1yLTmRyT8Mf",
+        "author": "TIM PALU POSO",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:43:26.000Z",
+        "description": "Wali Kota Palu Hadianto Rasyid mengakui untuk mengindentifikasi masalah yang dihadapi warga adalah dengan bertemu langsung. #publisherstory",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6f1mp41g2f95zdp989h2cmj.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6f1mp41g2f95zdp989h2cmj.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6f1mp41g2f95zdp989h2cmj.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6f1mp41g2f95zdp989h2cmj.jpg"
+        }
+      },
+      {
+        "creator": "Lampung Geh",
+        "title": "BMKG Catat Gempa 2.8 Magnitudo Berpusat di Pesawaran, Lampung, Pagi Ini",
+        "link": "https://kumparan.com/lampunggeh/bmkg-catat-gempa-2-8-magnitudo-berpusat-di-pesawaran-lampung-pagi-ini-1yLTpFgpjQg",
+        "author": "Roza Hariqo",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:41:45.000Z",
+        "description": "Berdasarkan keterangan BMKG Lampung, lokasi gempa berpusat pada titik koordinat 5.75LS - 104.94 BT atau tepatnya berlokasi di tengah laut 41 km Barat Daya, Pesawaran. #publisherstory",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6f1h12kvme0g3q1s0w070hy.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6f1h12kvme0g3q1s0w070hy.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6f1h12kvme0g3q1s0w070hy.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6f1h12kvme0g3q1s0w070hy.jpg"
+        }
+      },
+      {
+        "creator": "kumparanNEWS",
+        "title": "Esai Foto: Nasib Dua Kota Besar di Pesisir Utara Jawa yang Terancam Tenggelam",
+        "link": "https://kumparan.com/kumparannews/esai-foto-nasib-dua-kota-besar-di-pesisir-utara-jawa-yang-terancam-tenggelam-1yLBPwSz6hg",
+        "author": "Fitra Andrianto",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:41:00.000Z",
+        "description": "Dua kota besar tersebut sering dihantui banjir rob dan terancam tenggelam akibat tingginya air laut. #kumparanNEWS",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6d41yk5yakra07gwrbmpq4f.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6d41yk5yakra07gwrbmpq4f.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6d41yk5yakra07gwrbmpq4f.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6d41yk5yakra07gwrbmpq4f.jpg"
+        }
+      },
+      {
+        "creator": "Mama Rempong",
+        "title": "Arti Nama Widya serta Ide Nama Panjangnya",
+        "link": "https://kumparan.com/mama-rempong/arti-nama-widya-serta-ide-nama-panjangnya-1yKo1EywCu6",
+        "author": "Mama Rempong",
+        "categories": [
+          "Mom"
+        ],
+        "isoDate": "2022-06-26T03:40:35.000Z",
+        "description": "Apakah arti nama Widya benar-benar berasal dari Indonesia? Berikut penjelasan lengkapnya!\n#userstory",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6apanz066br3781gszpakz8.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6apanz066br3781gszpakz8.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6apanz066br3781gszpakz8.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6apanz066br3781gszpakz8.jpg"
+        }
+      },
+      {
+        "creator": "Palu Poso",
+        "title": "Diduga sebagai Pengedar Narkoba, Polisi Tangkap Seorang Pemuda di Palu",
+        "link": "https://kumparan.com/paluposo/diduga-sebagai-pengedar-narkoba-polisi-tangkap-seorang-pemuda-di-palu-1yLTNnWPhsU",
+        "author": "TIM PALU POSO",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:32:06.000Z",
+        "description": "Kapolresta Palu, Kombes Pol Barliansyah mengatakan, seorang pemuda di Palu ini, sudah lama menjadi target operasi polisi. Yang bersangkutan diduga sebagai pengedar narkoba. #publisherstory",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6f0vaw74nk1z82x9qn9b8qn.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6f0vaw74nk1z82x9qn9b8qn.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6f0vaw74nk1z82x9qn9b8qn.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6f0vaw74nk1z82x9qn9b8qn.jpg"
+        }
+      },
+      {
+        "creator": "Berita Viral",
+        "title": "Apa Jadinya Bila Oksigen Lenyap 5 Detik Saja dari Dunia Ini?",
+        "link": "https://kumparan.com/berita_viral/apa-jadinya-bila-oksigen-lenyap-5-detik-saja-dari-dunia-ini-1yL44B5gA0D",
+        "author": "Berita Viral",
+        "categories": [
+          "Tekno & Sains"
+        ],
+        "isoDate": "2022-06-26T03:30:59.000Z",
+        "description": "Oksigen menjadi sesuatu yang vital bagi kelangsungan makhluk hidup. Namun, apa jadinya jika oksigen hilang lima detik saja dari dunia ini? #userstory",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6cb12xzh7mse7vq6wntwyks.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6cb12xzh7mse7vq6wntwyks.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6cb12xzh7mse7vq6wntwyks.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6cb12xzh7mse7vq6wntwyks.jpg"
+        }
+      },
+      {
+        "creator": "kumparanTECH",
+        "title": "Dulu Kena PHK, Pria Ini Jadi Seleb TikTok dengan Follower Terbanyak",
+        "link": "https://kumparan.com/kumparantech/dulu-kena-phk-pria-ini-jadi-seleb-tiktok-dengan-follower-terbanyak-1yKlePgW0TH",
+        "author": "Rian Ramadhan",
+        "categories": [
+          "Tekno & Sains"
+        ],
+        "isoDate": "2022-06-26T03:29:56.000Z",
+        "description": "Pria ini terkenal di TikTok berkat kontennya yang merespons video life hack secara sarkastis tanpa ekspresi. #kumparanTECH",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6ajpd49jvc7zq8wkhbkt55w.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6ajpd49jvc7zq8wkhbkt55w.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6ajpd49jvc7zq8wkhbkt55w.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6ajpd49jvc7zq8wkhbkt55w.jpg"
+        }
+      },
+      {
+        "creator": "Millennial",
+        "title": "Mahasiswa Wajib Tahu, Ini Tips Mendapatkan Beasiswa",
+        "link": "https://kumparan.com/millennial/mahasiswa-wajib-tahu-ini-tips-mendapatkan-beasiswa-1yLTOAIOmOf",
+        "author": "Ela Nurlaela",
+        "categories": [
+          "Buzz"
+        ],
+        "isoDate": "2022-06-26T03:25:14.000Z",
+        "description": "Berikut tips dan trik yang harus kamu ketahui untuk mendapatkan beasiswa impianmu. Apa saja? Simak selengkapnya. #kumparanBUZZ",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1618886043/oqxyff7jp48ugud7vxer.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1618886043/oqxyff7jp48ugud7vxer.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1618886043/oqxyff7jp48ugud7vxer.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1618886043/oqxyff7jp48ugud7vxer.jpg"
+        }
+      },
+      {
+        "creator": "kumparanBISNIS",
+        "title": "Jokowi Beri Tunjangan untuk Polisi Hutan, Rp 300 Ribu hingga Rp 2,19 Juta",
+        "link": "https://kumparan.com/kumparanbisnis/jokowi-beri-tunjangan-untuk-polisi-hutan-rp-300-ribu-hingga-rp-2-19-juta-1yLST6yrhQH",
+        "author": "Angga Sukmawijaya",
+        "categories": [
+          "Bisnis"
+        ],
+        "isoDate": "2022-06-26T03:22:07.000Z",
+        "description": "Presiden Jokowi memberikan tunjangan bagi polisi hutan, berikut rincian besarannya.",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6eyfwgpee4znrr91pdq9evw.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6eyfwgpee4znrr91pdq9evw.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6eyfwgpee4znrr91pdq9evw.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6eyfwgpee4znrr91pdq9evw.jpg"
+        }
+      },
+      {
+        "creator": "Berita Viral",
+        "title": "Amblaskan Puluhan Rumah di Minahasa Selatan, Apa Itu Abrasi Pantai?",
+        "link": "https://kumparan.com/berita_viral/amblaskan-puluhan-rumah-di-minahasa-selatan-apa-itu-abrasi-pantai-1yKlh4GhaWw",
+        "author": "Berita Viral",
+        "categories": [
+          "Buzz"
+        ],
+        "isoDate": "2022-06-26T03:23:03.000Z",
+        "description": "Apa itu abrasi pantai yang terjadi di pesisir Kepulauan Amurang, Kabupaten Minahasa Selatan, Sulawesi Utara. Akibat abrasi, terse jembatan penghubung Pantai Boulevard jadi ambruk. #userstory",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6adprwxjah7a1eh4vh6w7mm.webp",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6adprwxjah7a1eh4vh6w7mm.webp",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6adprwxjah7a1eh4vh6w7mm.webp",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6adprwxjah7a1eh4vh6w7mm.webp"
+        }
+      },
+      {
+        "creator": "kumparanNEWS",
+        "title": "WHO Tegaskan Cacar Monyet Belum Jadi Pandemi",
+        "link": "https://kumparan.com/kumparannews/who-tegaskan-cacar-monyet-belum-jadi-pandemi-1yLTMgj0xVN",
+        "author": "Wisnu Prasetiyo",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:20:46.000Z",
+        "description": "WHO menyebut cacar monyet belum jadi pandemi atau darurat kesehatan global. Meski begitu, Direktur Jenderal WHO Tedros Adhanom Ghebreyesus mengaku sangat prihatin dengan wabah ini. #kumparanNews",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1579831406/aafjkrgydyylmpkqieh0.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1579831406/aafjkrgydyylmpkqieh0.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1579831406/aafjkrgydyylmpkqieh0.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1579831406/aafjkrgydyylmpkqieh0.jpg"
+        }
+      },
+      {
+        "creator": "Kanal Bali",
+        "title": "Tradisi Gangsing Desa Gobleg Tebar Pesona di Pesta Kesenian Bali",
+        "link": "https://kumparan.com/kanalbali/tradisi-gangsing-desa-gobleg-tebar-pesona-di-pesta-kesenian-bali-1yLTCQYJgDW",
+        "author": "Tim Kanal Bali",
+        "categories": [
+          "Food & Travel"
+        ],
+        "isoDate": "2022-06-26T03:18:07.000Z",
+        "description": "Permainan gangsing tradisional masih dipertahankan turun temurun di sejumlah desa di Buleleng, Bali. #publisherstory",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6f03smcf0fyr0c7kv856yb9.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6f03smcf0fyr0c7kv856yb9.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6f03smcf0fyr0c7kv856yb9.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6f03smcf0fyr0c7kv856yb9.jpg"
+        }
+      },
+      {
+        "creator": "kumparanNEWS",
+        "title": "Komnas Perempuan: RUU KIA Bantu Pengasuhan Anak Menjadi Optimal",
+        "link": "https://kumparan.com/kumparannews/komnas-perempuan-ruu-kia-bantu-pengasuhan-anak-menjadi-optimal-1yLSaXmzK1W",
+        "author": "Salmah Muslimah",
+        "categories": [
+          "News"
+        ],
+        "isoDate": "2022-06-26T03:09:42.000Z",
+        "description": "Ketua Komnas Perempuan Andy Yentriyani mendorong RUU KIA segera disahkan. #kumparanNews",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1592905804/bloo3d6dtdajibynmrem.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1592905804/bloo3d6dtdajibynmrem.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1592905804/bloo3d6dtdajibynmrem.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1592905804/bloo3d6dtdajibynmrem.jpg"
+        }
+      },
+      {
+        "creator": "kumparanBOLA",
+        "title": "Gareth Bale Siap Ramaikan MLS, Segera Susul Chiellini di Los Angeles FC",
+        "link": "https://kumparan.com/kumparanbola/gareth-bale-siap-ramaikan-mls-segera-susul-chiellini-di-los-angeles-fc-1yLR3r5oWPi",
+        "author": "Dzaky Nurcahyo",
+        "categories": [
+          "Bola & Sports"
+        ],
+        "isoDate": "2022-06-26T03:13:18.000Z",
+        "description": "Akankah Gareth Bale mampu menemukan permainan terbaiknya di MLS? #kumparanBOLA",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/0181361d72c2f5ab1a02ec39d65ac36f.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/0181361d72c2f5ab1a02ec39d65ac36f.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/0181361d72c2f5ab1a02ec39d65ac36f.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/0181361d72c2f5ab1a02ec39d65ac36f.jpg"
+        }
+      },
+      {
+        "creator": "Berita Viral",
+        "title": "BTS Rilis Lagu Yet To Come (The Most Beautiful Moment), Apa Arti Yet To Come?",
+        "link": "https://kumparan.com/berita_viral/bts-rilis-lagu-yet-to-come-the-most-beautiful-moment-apa-arti-yet-to-come-1yKnEtJ6L0u",
+        "author": "Berita Viral",
+        "categories": [
+          "Buzz"
+        ],
+        "isoDate": "2022-06-26T03:09:22.000Z",
+        "description": "Apa arti Yet To Come (The Most Beautiful Moment)? Lagu yang dirilis BTS tersebut dapat ditonton video klipnya di kanal YouTube HYBE LABELS. #userstory",
+        "images": {
+          "small": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_240,f_jpg/v1634025439/01g6aksaphwnjan3ke5ebjksmp.jpg",
+          "medium": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480,f_jpg/v1634025439/01g6aksaphwnjan3ke5ebjksmp.jpg",
+          "large": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_720,f_jpg/v1634025439/01g6aksaphwnjan3ke5ebjksmp.jpg",
+          "extraLarge": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1080,f_jpg/v1634025439/01g6aksaphwnjan3ke5ebjksmp.jpg"
+        }
+      }
+    ]
+  }
+}

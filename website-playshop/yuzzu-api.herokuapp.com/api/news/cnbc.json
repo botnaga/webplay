@@ -1,0 +1,1111 @@
+{
+  "author": "YuzzuKamiyaka",
+  "result": {
+    "code": 200,
+    "status": "OK",
+    "messages": "Result of all news in CNBC News",
+    "total": 100,
+    "data": [
+      {
+        "title": "Ada Ancaman Krisis Pangan, Ini Permintaan Jokowi ke Zelensky",
+        "link": "https://www.cnbcindonesia.com/news/20220626104250-4-350421/ada-ancaman-krisis-pangan-ini-permintaan-jokowi-ke-zelensky",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/26/keterangan-pers-presiden-ri-jokowi-terkait-kunjungan-kerja-ke-luar-negeri-26-juni-2022-2_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Jokowi menginginkan agar rantai pasok distribusi pangan kembali diaktifkan kembali",
+        "isoDate": "2022-06-26T03:55:00.000Z"
+      },
+      {
+        "title": "Ultimatum Mahfud ke Anies Cs: Ngotot Rekrut Honorer, Sanksi!",
+        "link": "https://www.cnbcindonesia.com/news/20220626092821-4-350408/ultimatum-mahfud-ke-anies-cs-ngotot-rekrut-honorer-sanksi",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/01/20/mahfud-md-dok-kemenko-polhukam_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Pemerintah menegaskan tidak akan ragu memberikan sanksi terhadap kepala daerah yang masih merekrut tenaga honorer",
+        "isoDate": "2022-06-26T03:40:10.000Z"
+      },
+      {
+        "title": "Jokowi Pastikan Bertemu Zelensky-Putin, Minta Perang Disetop!",
+        "link": "https://www.cnbcindonesia.com/news/20220626101258-4-350418/jokowi-pastikan-bertemu-zelensky-putin-minta-perang-disetop",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/26/keterangan-pers-presiden-ri-jokowi-terkait-kunjungan-kerja-ke-luar-negeri-26-juni-2022-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Jokowi akan berkunjung ke Ukraina dan Rusia pasca hadir dalam KTT G7 di Jerman",
+        "isoDate": "2022-06-26T03:35:15.000Z"
+      },
+      {
+        "title": "Jokowi Terbang ke Jerman, Bawa Misi Perdamaian Ukraina",
+        "link": "https://www.cnbcindonesia.com/news/20220626102207-4-350420/jokowi-terbang-ke-jerman-bawa-misi-perdamaian-ukraina",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/26/keterangan-pers-presiden-ri-jokowi-terkait-kunjungan-kerja-ke-luar-negeri-26-juni-2022-2_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Jokowi pada hari ini terbang ke Jerman untuk hadir dalam KTT G7",
+        "isoDate": "2022-06-26T03:30:05.000Z"
+      },
+      {
+        "title": "Potret Sungai Terpanjang Italia yang Kini Kering Kerontang",
+        "link": "https://www.cnbcindonesia.com/news/20220626075904-7-350388/potret-sungai-terpanjang-italia-yang-kini-kering-kerontang",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/26/environment-italydrought-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Sungai terpanjang di Italia mengalami kekeringan terburuk selama 70 tahun",
+        "isoDate": "2022-06-26T03:20:05.000Z"
+      },
+      {
+        "title": "Krisis Pangan Mengancam, Subsidi Pupuk Cs Perlu Ditambah",
+        "link": "https://www.cnbcindonesia.com/news/20220624135502-8-350050/krisis-pangan-mengancam-subsidi-pupuk-cs-perlu-ditambah",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/24/krisis-pangan-mengancam-subsidi-pupuk-cs-perlu-ditambah-cnbc-indonesia-tv-cnbc-indonesia-tv_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Krisis Pangan Mengancam, Subsidi Pupuk Cs Perlu Ditambah",
+        "isoDate": "2022-06-26T03:01:32.000Z"
+      },
+      {
+        "title": "Negara Dengan Angkatan Laut Paling 'Ditakuti' Dunia, Ada RI?",
+        "link": "https://www.cnbcindonesia.com/news/20220626090255-4-350406/negara-dengan-angkatan-laut-paling-ditakuti-dunia-ada-ri",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/29/rudal-harpoon_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Ini merupakan data terbaru yang dirilis oleh World Directory of Modern Military Warships (WDMWW)",
+        "isoDate": "2022-06-26T03:00:00.000Z"
+      },
+      {
+        "title": "Gaji 13 PNS Bakal Cair Juli 2022, Besarannya Bikin Ngiler Nih",
+        "link": "https://www.cnbcindonesia.com/news/20220626085052-4-350404/gaji-13-pns-bakal-cair-juli-2022-besarannya-bikin-ngiler-nih",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/05/23/infografis-gaji-ke-13-pns-cair-1-juni-cek-besaran-tiap-golonganaristya-rahadian_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Pemerintah telah memproses pencairan gaji ke 13 bagi ASN, termasuk pegawai negeri sipil",
+        "isoDate": "2022-06-26T02:45:00.000Z"
+      },
+      {
+        "title": "Ini 7 Penemu Asal Indonesia yang Mendunia, Bikin Takjub!",
+        "link": "https://www.cnbcindonesia.com/lifestyle/20220626084248-33-350403/ini-7-penemu-asal-indonesia-yang-mendunia-bikin-takjub",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/05/06/jalan-tol-mbz-sudah-mulai-ditutup-sementara-cnbc-indonesiamuhammad-sabki-6_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Banyak penemu asal indonesia yang berhasil menemukan sejumlah barang penting, salah satunya alat terapi kanker",
+        "isoDate": "2022-06-26T02:30:00.000Z"
+      },
+      {
+        "title": "Ancam Barat, Putin Siap Bikin Jet Tempur Belarus 'Menakutkan'",
+        "link": "https://www.cnbcindonesia.com/news/20220626083305-4-350395/ancam-barat-putin-siap-bikin-jet-tempur-belarus-menakutkan",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/13/presiden-rusia-vladimir-putin-2_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Putin akan mempersenjatai pesawat tempur Belarusia dengan sistem pembawa nuklir canggih",
+        "isoDate": "2022-06-26T02:15:05.000Z"
+      },
+      {
+        "title": "Naik Kapal Pesiar Mulai Rp 3 Jutaan, Begini Caranya",
+        "link": "https://www.cnbcindonesia.com/mymoney/20220626085011-72-350405/naik-kapal-pesiar-mulai-rp-3-jutaan-begini-caranya",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/07/28/ilustrasi-kapal-pesiar-dok-olxcoid-6_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Anda bisa menikmati kapal pesiar Resort World Cruise dengan rute perjalanan Singapura - Melaka / Kuala Lumpur - Penang - Singapore.",
+        "isoDate": "2022-06-26T02:00:35.000Z"
+      },
+      {
+        "title": "Zelenksy Murka: Kami Akan Rebut Lagi Kota yang Dikuasai Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220626075820-4-350387/zelenksy-murka-kami-akan-rebut-lagi-kota-yang-dikuasai-rusia",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/02/1239750400_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Presiden Ukraina Volodymyr Zelenksy berjanji akan merebut kembali kota yang berhasil direbut Rusia",
+        "isoDate": "2022-06-26T02:00:10.000Z"
+      },
+      {
+        "title": "Terungkap! Alasan Kelas 1,2,3 BPJS Kesehatan Dihapus Juli",
+        "link": "https://www.cnbcindonesia.com/news/20220626074256-4-350386/terungkap-alasan-kelas-123-bpjs-kesehatan-dihapus-juli",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/02/22/bpjs-kesehatan-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Ada sejumlah kelas BPJS kesehatan diubah menjadi kelas tunggal pada Juli 2022 mendatang.",
+        "isoDate": "2022-06-26T01:45:10.000Z"
+      },
+      {
+        "title": "Muncul Mobil 'Penghancur' Avanza dari Honda, Siap Jadi Raja?",
+        "link": "https://www.cnbcindonesia.com/news/20220626073318-4-350385/muncul-mobil-penghancur-avanza-dari-honda-siap-jadi-raja",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/23/honda-logo_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Toyota Avanza nampaknya bakal memiliki pesaing baru di pasar otomotif.",
+        "isoDate": "2022-06-26T01:30:20.000Z"
+      },
+      {
+        "title": "Ciri-ciri Covid Omicron BA.4 dan BA.5, Waspada Gejala Ini",
+        "link": "https://www.cnbcindonesia.com/lifestyle/20220626072459-33-350384/ciri-ciri-covid-omicron-ba4-ba5-waspada-gejala-ini",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/01/31/gambar-konten-omicron-merajalela_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Subvarian Omicron BA.4 dan BA.5 disebut menjadi biang kerok kenaikan kasus Covid-19 dalam beberapa hari terakhir",
+        "isoDate": "2022-06-26T01:15:00.000Z"
+      },
+      {
+        "title": "Harta Karun 2 Miliar Ton Emas Ini Sudah Dicari 24 Tahun",
+        "link": "https://www.cnbcindonesia.com/news/20220626065050-4-350382/harta-karun-2-miliar-ton-emas-ini-sudah-dicari-24-tahun",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/29/berlimpah-harta-karun-5-pulau-yang-paling-banyak-simpan-emas-ri_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Harta karun tersebut terletak di Tambang Onto, Kecamatan Hu'u, Kabupaten Dompu, Nusa Tenggara Barat",
+        "isoDate": "2022-06-26T01:00:00.000Z"
+      },
+      {
+        "title": "WHO Umumkan Status Terbaru Cacar Monyet: Bukan Pandemi!",
+        "link": "https://www.cnbcindonesia.com/news/20220626071532-4-350383/who-umumkan-status-terbaru-cacar-monyet-bukan-pandemi",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/21/telapak-tangan-pasien-kasus-cacar-monyet-dari-lodja-sebuah-kota-yang-terletak-di-dalam-zona-kesehatan-katako-kombe-terlihat-se_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "WHO menyebut wabah cacar monyet belum menjadi darurat kesehatan masyarakat global",
+        "isoDate": "2022-06-26T00:40:10.000Z"
+      },
+      {
+        "title": "3 Kali Lelang Tak Juga Laku, Mau Diapain Aset Tommy Soeharto?",
+        "link": "https://www.cnbcindonesia.com/news/20220626063957-4-350381/3-kali-lelang-tak-juga-laku-mau-diapain-aset-tommy-soeharto",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/01/13/penyitaan-aset-oleh-satgas-penanganan-hak-tagih-negara-dan-bantuan-likuiditas-bank-indonesia-di-jalan-raya-dawuan-karawang-jaw-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Meskipun sudah dilakukan tiga kali lelang, tidak ada satu pun aset Tommy Soeharto yang laku",
+        "isoDate": "2022-06-26T00:20:00.000Z"
+      },
+      {
+        "title": "Uraa! Pasukan Ukraina Mundur, Rusia Kuasai Kota Ukraina Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220626063146-4-350380/uraa-pasukan-ukraina-mundur-rusia-kuasai-kota-ukraina-ini",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/08/sebuah-citra-satelit-menunjukkan-bangunan-yang-rusak-di-dekat-istana-kebudayaan-chemist-di-pusat-kota-severodonetsk-ukraina-6-_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Rusia berhasil menguasai kota Severodonestk setelah pasukan Ukraina dipaksa mundur karena kalah persenjataan",
+        "isoDate": "2022-06-25T23:59:00.000Z"
+      },
+      {
+        "title": "Psst! Kejagung Umumkan Tersangka Baru Korupsi Garuda Besok",
+        "link": "https://www.cnbcindonesia.com/news/20220626061201-4-350379/psst-kejagung-umumkan-tersangka-baru-korupsi-garuda-besok",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/12/12/ilustrasi-kejaksaan-agung-kejagung_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Kejagung akan mengumumkan tersangka baru dalam kasus dugaan korupsi pengadaan pesawat Garuda Indonesia",
+        "isoDate": "2022-06-25T23:45:00.000Z"
+      },
+      {
+        "title": "Sri Lanka Bangkrut Hingga Potret Bom 'Raksasa' di Ukraina",
+        "link": "https://www.cnbcindonesia.com/news/20220625193827-7-350353/sri-lanka-bangkrut-hingga-potret-bom-raksasa-di-ukraina",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/23/russia-fashion-week-3_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Berikut peristiwa berita foto dalam sepekan yang dirangkum CNBC Indonesia",
+        "isoDate": "2022-06-25T23:30:15.000Z"
+      },
+      {
+        "title": "Bank DKI Punya Ini di Puncak Jakarta Hajatan",
+        "link": "https://www.cnbcindonesia.com/tech/20220626090710-37-350407/bank-dki-punya-ini-di-puncak-jakarta-hajatan",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/26/aplikasi-jakone-pay_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Bank DKI mendukung gelaran malam puncak Jakarta Hajatan dengan mengajak para pengunjung menikmati pengalaman bertransaksi lewat JakOne Pay.",
+        "isoDate": "2022-06-25T17:12:47.000Z"
+      },
+      {
+        "title": "Diserbu Investor Ritel, SUN Seri SBR011 di BRI Laku Rp 1,5 T",
+        "link": "https://www.cnbcindonesia.com/market/20220625210609-17-350378/diserbu-investor-ritel-sun-seri-sbr011-di-bri-laku-rp-15-t",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/03/20/bri_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "SBR011 merupakan satu-satunya SUN non-tradable yang dijamin negara dengan nominal pembelian mulai dari Rp1 juta.",
+        "isoDate": "2022-06-25T14:52:42.000Z"
+      },
+      {
+        "title": "Tok! Biden Sahkan Undang-Undang Pengendalian Senjata",
+        "link": "https://www.cnbcindonesia.com/news/20220625205023-4-350376/tok-biden-sahkan-undang-undang-pengendalian-senjata",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/13/presiden-as-joe-biden_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Presiden Amerika Serikat (AS) Joe Biden pada Sabtu (25/6/2022) menandatangani undang-undang pengendalian senjata.",
+        "isoDate": "2022-06-25T14:50:00.000Z"
+      },
+      {
+        "title": "Jika Muncul Gejala Ini Saat Bangun Tidur, Segera Tes Covid-19",
+        "link": "https://www.cnbcindonesia.com/lifestyle/20220625200312-33-350372/jika-muncul-gejala-ini-saat-bangun-tidur-segera-tes-covid-19",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/12/17/infografis-penelitian-terbaru-gejala-omicron-ringan-tapiaristya-rahadian-1_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Gejala Covid-19 muncul berbeda-beda tiap orang. Untuk gejala virus omicron bahkan bisa terlihat saat orang bangun tidur.",
+        "isoDate": "2022-06-25T14:45:00.000Z"
+      },
+      {
+        "title": "Daftar Pinjol Cepat Cair Resmi OJK 2022, Bukan Abal-Abal",
+        "link": "https://www.cnbcindonesia.com/tech/20220625194930-37-350352/daftar-pinjol-cepat-cair-resmi-ojk-2022-bukan-abal-abal",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2018/02/06/28b78327-43b3-497d-bba6-04c8a17560e8_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Otoritas Jasa Keuangan (OJK) sudah merilis 103 penyelenggaran pinjaman online resmi.",
+        "isoDate": "2022-06-25T14:30:30.000Z"
+      },
+      {
+        "title": "Cara Membedakan Anda Terinfeksi BA.4-BA.5 Atau Flu Biasa",
+        "link": "https://www.cnbcindonesia.com/tech/20220625205927-37-350377/cara-membedakan-anda-terinfeksi-ba4-ba5-atau-flu-biasa",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/01/27/bedah-gejala-covid-19-varian-omicron-dan-flu-biasa_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Subvarian baru Omicron yakni BA.4 dan BA.5 sudah menjadi biang kerok kasus harian melonjak.",
+        "isoDate": "2022-06-25T14:25:27.000Z"
+      },
+      {
+        "title": "Negara Ini Minta Warga Buang HP China, Sampai Sebut Xiaomi!",
+        "link": "https://www.cnbcindonesia.com/tech/20220625191244-37-350338/negara-ini-minta-warga-buang-hp-china-sampai-sebut-xiaomi",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2018/06/20/caa1acff-621b-4d51-8d1e-5c339483806e_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Kementerian Pertahanan Lithuania meminta warganya untuk menghindari membeli ponsel China.",
+        "isoDate": "2022-06-25T14:15:00.000Z"
+      },
+      {
+        "title": "Cek! 10 Pekerjaan dengan Gaji Gede Tanpa Kuliah, Minat?",
+        "link": "https://www.cnbcindonesia.com/lifestyle/20220625184724-33-350337/cek-10-pekerjaan-dengan-gaji-gede-tanpa-kuliah-minat",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/11/19/infografis-10-pekerjaan-di-ri-dengan-gaji-paling-tinggi_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Daftar pekerjaan tanpa memerlukan gelar tinggi.",
+        "isoDate": "2022-06-25T14:00:00.000Z"
+      },
+      {
+        "title": "Bikin Happy! Kabar Baik Buat Pengguna Booster Pfizer-Astra RI",
+        "link": "https://www.cnbcindonesia.com/tech/20220625203906-37-350375/bikin-happy-kabar-baik-buat-pengguna-booster-pfizer-astra-ri",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/03/23/vaksinasi-booster-covid-19-6_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Ada kabar baik bagi masyarakat penerima vaksin Covid-19 Pfizer dan AstraZeneca.",
+        "isoDate": "2022-06-25T13:53:06.000Z"
+      },
+      {
+        "title": "Indonesia Selamat, Sederet Negara Ini Ambruk Terjerat Utang",
+        "link": "https://www.cnbcindonesia.com/market/20220625183810-17-350336/indonesia-selamat-sederet-negara-ini-ambruk-terjerat-utang",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/21/daftar-negara-yang-bakal-ambruk-gegara-utang-ada-tetangga-ri_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Bank Sentral Inggris (Bank of England/BoE) dan Bank Sentral Amerika Serikat (Federal Reserve/The Fed) kompak menaikkan suku bunga acuan mereka.",
+        "isoDate": "2022-06-25T13:45:00.000Z"
+      },
+      {
+        "title": "Foxconn Cs Mau Investasi Rp 118 T, Ini Tindakan Pemerintah",
+        "link": "https://www.cnbcindonesia.com/news/20220625202857-4-350374/foxconn-cs-mau-investasi-rp-118-t-ini-tindakan-pemerintah",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/investasi-foxconn-di-indonesia_169.mpo?w=360&q=100"
+        },
+        "contentSnippet": "Rencana investasi Foxconn ditindaklanjuti.",
+        "isoDate": "2022-06-25T13:35:11.000Z"
+      },
+      {
+        "title": "Jokowi Bayar Utang RI Sampai Menyusut, Uangnya dari Mana?",
+        "link": "https://www.cnbcindonesia.com/market/20220625182319-17-350335/jokowi-bayar-utang-ri-sampai-menyusut-uangnya-dari-mana",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/22/presiden-joko-widodo-bersama-ketua-dpr-puan-maharani-menteri-sekretaris-negara-pratikno-menteri-investasikepala-bkpm-bahlil-la-4_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Bank Indonesia (BI) belum lama ini melaporkan Utang Luar Negeri (ULN) Indonesia mengalami tren penurunan hingga April 2022.",
+        "isoDate": "2022-06-25T13:30:00.000Z"
+      },
+      {
+        "title": "Ini Ciri WA Sedang Disadap dan Dibajak, Buruan Cek Ponsel Anda",
+        "link": "https://www.cnbcindonesia.com/tech/20220625200955-37-350373/ini-ciri-wa-sedang-disadap-dibajak-buruan-cek-ponsel-anda",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2020/08/13/infografis-simak-yah-ini-ciri-ciri-whatsapp-sedang-disadap_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Aplikasi WhatsApp rentan terhadap penyadapan atau dibajak. Kini pengguna bisa mengenai ciri-ciri ketika ponsel dibajak.",
+        "isoDate": "2022-06-25T13:25:00.000Z"
+      },
+      {
+        "title": "Duh! Mobil Listrik Kecelakaan Saat Uji Coba, 2 Orang Tewas",
+        "link": "https://www.cnbcindonesia.com/news/20220625180716-4-350333/duh-mobil-listrik-kecelakaan-saat-uji-coba-2-orang-tewas",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/mobil-nio-electric-weibo_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Baru-baru ini, sebuah mobil listrik Nio dari China jatuh dari lantai 3 kantor di kantor pusatnya di Shanghai.",
+        "isoDate": "2022-06-25T13:15:00.000Z"
+      },
+      {
+        "title": "Cek Pemenang Kontes Anjing Terjelek Dunia, Ini Penampakannya",
+        "link": "https://www.cnbcindonesia.com/lifestyle/20220625185929-34-350340/cek-pemenang-kontes-anjing-terjelek-dunia-ini-penampakannya",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/california-ugliest-dog_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Kontes Anjing Terjelek di Dunia adalah kontes tahunan yang diadakan di Petaluma, California, sebagai bagian dari Sonoma-Marin Fair.",
+        "isoDate": "2022-06-25T13:10:00.000Z"
+      },
+      {
+        "title": "Awas! Covid Omicron BA.4-BA.5 Lebih Menular dari Varian Lama",
+        "link": "https://www.cnbcindonesia.com/tech/20220625174456-37-350331/awas-covid-omicron-ba4-ba5-lebih-menular-dari-varian-lama",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/01/31/gambar-konten-omicron-merajalela-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Jumlah kasus Covid-19 cenderung meningkat pada pekan ini, yang disebabkan subvarian Omicron BA.4 dan BA.5.",
+        "isoDate": "2022-06-25T13:00:00.000Z"
+      },
+      {
+        "title": "5 Teknologi Paling Berbahaya, Harusnya Tak Pernah Diciptakan",
+        "link": "https://www.cnbcindonesia.com/tech/20220625193939-37-350351/5-teknologi-paling-berbahaya-harusnya-tak-pernah-diciptakan",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/03/22/robot-sophia_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Tidak semua kemajuan teknologi berujung positif. Ada beberapa penemuan yang malah berbahaya bagi kehidupan manusia.",
+        "isoDate": "2022-06-25T12:50:30.000Z"
+      },
+      {
+        "title": "Waduh! Fitur Whatsapp Ini Disebut Bikin Selingkuh Lebih Aman",
+        "link": "https://www.cnbcindonesia.com/tech/20220625173835-37-350330/waduh-fitur-whatsapp-ini-disebut-bikin-selingkuh-lebih-aman",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/07/ilustrasi-whatsapp-appatrick-sison_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Aplikasi pesan Whatsapp memiliki fitur Disappearing Message (hapus pesan otomatis) yang disebut dapat membantu perselingkuhan.",
+        "isoDate": "2022-06-25T12:45:00.000Z"
+      },
+      {
+        "title": "Daftar Terbaru 10 Orang Terkaya Indonesia, Ada Raffi Ahmad?",
+        "link": "https://www.cnbcindonesia.com/lifestyle/20220625192811-33-350339/daftar-terbaru-10-orang-terkaya-indonesia-ada-raffi-ahmad",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/01/07/raffi-ahmad-11_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Pada masa pandemi, kekayaan sejumlah orang berduit terus bertambah.",
+        "isoDate": "2022-06-25T12:38:11.000Z"
+      },
+      {
+        "title": "Penampakan Panasnya Demo di AS, Protes Pembatalan Hak Aborsi",
+        "link": "https://www.cnbcindonesia.com/news/20220625133558-7-350295/penampakan-panasnya-demo-di-as-protes-pembatalan-hak-aborsi",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/supreme-court-abortion-arizona-3_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Ratusan orang melakukan protes dan mengungkap kemarahan mereka di depan gedung MA, Washington DC",
+        "isoDate": "2022-06-25T12:30:00.000Z"
+      },
+      {
+        "title": "Covid-19 Menggila, Pusat Judi Terbesar Dunia Kembali Lockdown",
+        "link": "https://www.cnbcindonesia.com/news/20220625170858-4-350328/covid-19-menggila-pusat-judi-terbesar-dunia-kembali-lockdown",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2018/10/20/baaba853-0f0f-4456-9be1-f113c7a3e505_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Kota judi terbesar dunia, Makau, mulai melakukan lockdown. Ini lantaran meningkatnya jumlah kasus Covid-19.",
+        "isoDate": "2022-06-25T12:15:00.000Z"
+      },
+      {
+        "title": "Ricuh Aborsi Ilegal di AS, Apa Kata Joe Biden?",
+        "link": "https://www.cnbcindonesia.com/news/20220625165511-4-350326/ricuh-aborsi-ilegal-di-as-apa-kata-joe-biden",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/04/demo-massa-pendukung-aborsi-di-as-6_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Amerika Serikat tengah ricuh setelah Mahkamah Agung berupaya membatalkan hak aborsi.",
+        "isoDate": "2022-06-25T12:00:00.000Z"
+      },
+      {
+        "title": "9 Crazy Rich Pemilik Mal Mewah di DKI, Kekayaannya Bikin Iri",
+        "link": "https://www.cnbcindonesia.com/market/20220625162958-17-350324/9-crazy-rich-pemilik-mal-mewah-di-dki-kekayaannya-bikin-iri",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2019/06/04/a2f852a6-9909-457c-8f30-05527d9748ab_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "DKI Jakarta memiliki beberapa pusat perbelanjaan yang megah. Siapa sangka ternyata mal tersebut dimiliki oleh konglomerat Tanah Air.",
+        "isoDate": "2022-06-25T11:45:00.000Z"
+      },
+      {
+        "title": "China Harus Waspada, AS Bentuk 'Geng' Baru di Asia Pasifik",
+        "link": "https://www.cnbcindonesia.com/news/20220625181525-4-350334/china-harus-waspada-as-bentuk-geng-baru-di-asia-pasifik",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/23/bendera-amerika-serikat-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Amerika Serikat (AS) terus meningkatkan penetrasinya di kawasan Asia Pasifik.",
+        "isoDate": "2022-06-25T11:35:00.000Z"
+      },
+      {
+        "title": "Cek Fakta dan Data Jokowi Bayar Utang Indonesia Sampai Menyusut",
+        "link": "https://www.cnbcindonesia.com/market/20220625160402-17-350319/cek-fakta-data-jokowi-bayar-utang-indonesia-sampai-menyusut",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/23/jokowi-di-penyampaian-lhp-lkpp-tahun-2021-istana-kepresidenan-bogor-23-juni-2022-1_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Level utang Pemerintah Indonesia tercatat masih berada dalam kondisi aman terkendali.",
+        "isoDate": "2022-06-25T11:30:00.000Z"
+      },
+      {
+        "title": "Kasus Covid-19 per 25 Juni, Melandai di Tengah Tren Kenaikan",
+        "link": "https://www.cnbcindonesia.com/news/20220625170218-16-350327/kasus-covid-19-per-25-juni-melandai-di-tengah-tren-kenaikan",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/15/infografis-update-data-corona-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Kasus konfirmasi harian Covid-19 di Tanah Air akhir menurun setelah dalam beberapa hari terakhir berada dalam tren kenaikan.",
+        "isoDate": "2022-06-25T11:20:00.000Z"
+      },
+      {
+        "title": "Clickworker Platform Kerja Freelancer, Dibayar Euro-Dolar?",
+        "link": "https://www.cnbcindonesia.com/tech/20220625154427-37-350318/clickworker-platform-kerja-freelancer-dibayar-euro-dolar",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2018/07/02/27b256b7-0a03-41c0-9675-2a7e49892f36_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Belakangan ini, platform Clickworker tengah menjadi sorotan. Sebab, aplikasi tersebut menawarkan kerja paruh waktu dengan bayaran yang menggiurkan.",
+        "isoDate": "2022-06-25T11:15:00.000Z"
+      },
+      {
+        "title": "Jakarta Masih Ngeri, Ada Tambahan 1.045 Kasus Harian Covid-19",
+        "link": "https://www.cnbcindonesia.com/news/20220625175556-4-350332/jakarta-masih-ngeri-ada-tambahan-1045-kasus-harian-covid-19",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2020/04/23/292858a4-af84-4dd3-bb89-311c72fe61a8_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Ibu Kota DKI Jakarta masih menjadi penyumbang terbanyak kasus harian Covid-19 dengan tambahan 1.045 kasus.",
+        "isoDate": "2022-06-25T11:05:38.000Z"
+      },
+      {
+        "title": "Siapakah Pemilik Dunia Fantasi Dufan Ancol yang Sebenarnya?",
+        "link": "https://www.cnbcindonesia.com/market/20220625153359-17-350316/siapakah-pemilik-dunia-fantasi-dufan-ancol-yang-sebenarnya",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2020/03/14/15480d8a-b7bf-4dda-9874-4c65203ac573_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Sejarah pendirian PT Pembangunan Jaya Ancol Tbk.",
+        "isoDate": "2022-06-25T11:00:00.000Z"
+      },
+      {
+        "title": "Google, Facebook, Whatsapp dan IG Bakal Diblokir RI 20 Juli?",
+        "link": "https://www.cnbcindonesia.com/tech/20220625152312-37-350315/google-facebook-whatsapp-ig-bakal-diblokir-ri-20-juli",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2019/07/04/ad228f8e-56e7-4a75-9c88-9bde789c93b7_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Sejumlah layanan dan aplikasi digital seperti Google, Facebook, Whatsapp, dan Instagram ramai disebut dalam daftar yang aksesnya akan diblokir di Indonesia.",
+        "isoDate": "2022-06-25T10:45:00.000Z"
+      },
+      {
+        "title": "Potret Lokasi Penembakan Massal di Norwegia yang Makan Korban",
+        "link": "https://www.cnbcindonesia.com/news/20220625143500-7-350309/potret-lokasi-penembakan-massal-di-norwegia-yang-makan-korban",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/norway-shooting_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Dua orang tewas dan 14 terluka dalam penembakan di sebuah klub malam dan di jalan-jalan terdekat di Ibu Kota Norwegia.",
+        "isoDate": "2022-06-25T10:30:00.000Z"
+      },
+      {
+        "title": "Kasus Covid-19 RI Melandai, Ada Tambahan 1.831 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220625171644-4-350329/kasus-covid-19-ri-melandai-ada-tambahan-1831-hari-ini",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/16/pemeriksaan-test-pcr-covid-19-8_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Kasus konfirmasi harian Covid-19 di Tanah Air akhirnya menurun setelah dalam beberapa hari terakhir berada dalam tren kenaikan.",
+        "isoDate": "2022-06-25T10:21:55.000Z"
+      },
+      {
+        "title": "China Umumkan Kemenangan Melawan Covid, RI Kapan?",
+        "link": "https://www.cnbcindonesia.com/news/20220625150715-4-350308/china-umumkan-kemenangan-melawan-covid-ri-kapan",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/02/virus-outbreak-china_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "China sudah mengumumkan kemenangannya melawan Covid.",
+        "isoDate": "2022-06-25T10:15:00.000Z"
+      },
+      {
+        "title": "Salah Urus Distribusi Sapi Bikin RI Rugi Rp 1,62 T per Tahun",
+        "link": "https://www.cnbcindonesia.com/news/20220625161719-8-350322/salah-urus-distribusi-sapi-bikin-ri-rugi-rp-162-t-per-tahun",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/angkut-sapi-pakai-kapal-bikin-rugi-rp-16-triliun-per-tahun-ini-sebabnya-cnbc-indonesia-tv_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Angkut Sapi Pakai Kapal Bikin Rugi Rp 1,6 Triliun Per Tahun, Ini Sebabnya",
+        "isoDate": "2022-06-25T10:01:07.000Z"
+      },
+      {
+        "title": "Wajib Tiru, 7 Pola Makan Ini Bisa Bikin Panjang Umur",
+        "link": "https://www.cnbcindonesia.com/lifestyle/20220625145403-33-350306/wajib-tiru-7-pola-makan-ini-bisa-bikin-panjang-umur",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/01/07/ilustrasi-diet_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Beberapa pola makan bisa menentukan usia.",
+        "isoDate": "2022-06-25T10:00:00.000Z"
+      },
+      {
+        "title": "10 Karya Arsitektur Ridwan Kamil yang Mendunia, Keren Semua!",
+        "link": "https://www.cnbcindonesia.com/lifestyle/20220625163835-33-350325/10-karya-arsitektur-ridwan-kamil-yang-mendunia-keren-semua",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/12/26/indonesia-tsunami-memorial_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Sebelum menjadi Gubernur Jawa Barat, Ridwan Kamil sudah banyak menelurkan karya arsitektur yang mendunia.",
+        "isoDate": "2022-06-25T09:54:35.000Z"
+      },
+      {
+        "title": "Eropa Mulai Hunting Batu Bara, Indonesia Bisa Jadi Superhero?",
+        "link": "https://www.cnbcindonesia.com/market/20220625143947-17-350305/eropa-mulai-hunting-batu-bara-indonesia-bisa-jadi-superhero",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/24/tambang-batu-bara-pt-adaro-indonesia_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Beberapa negara kini mulai melirik Indonesia atas kepemilikan sumber daya alam yang melimpah, khususnya batu bara.",
+        "isoDate": "2022-06-25T09:45:00.000Z"
+      },
+      {
+        "title": "Melihat Sederet Merek Motor Listrik Baru yang Hadir di PRJ",
+        "link": "https://www.cnbcindonesia.com/news/20220625112822-7-350271/melihat-sederet-merek-motor-listrik-baru-yang-hadir-di-prj",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/pekan-raya-jakarta-prj-atau-lebih-jakarta-fair-kemayoran-menjadi-momen-yang-tepat-bagi-pabrikan-roda-dua-untuk-menawarkan-prod-12_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Beragam sepeda motor listrik bergaya klasik bisa ditemui di sini. Berikut deretan motor bergaya klasik yang bisa Anda lirik di PRJ 2022.",
+        "isoDate": "2022-06-25T09:40:00.000Z"
+      },
+      {
+        "title": "Simak! Ini Cara Beli Minyak Goreng Curah Pakai PeduliLindungi",
+        "link": "https://www.cnbcindonesia.com/news/20220625141549-4-350302/simak-ini-cara-beli-minyak-goreng-curah-pakai-pedulilindungi",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/06/penjual-minyak-goreng-di-kawasan-cirendeu-jakarta-selatan-senin-662022-cnbc-indonesiamuhamad-sabki-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Luhut Binsar Pandjaitan mengumumkan aturan baru pemerintah untuk pembelian minyak goreng curah.",
+        "isoDate": "2022-06-25T09:30:00.000Z"
+      },
+      {
+        "title": "Mendag: Belum Dua Minggu, Minyak Goreng Rp 14.000 di Pasar",
+        "link": "https://www.cnbcindonesia.com/news/20220625161823-4-350323/mendag-belum-dua-minggu-minyak-goreng-rp-14000-di-pasar",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/menteri-perdagangan-zulkifli-hasan-dok-kemendag-ri-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Menteri Perdagangan Zulkifli Hasan melakukan sidak di Pasar Kramat Jati, Jakarta Timur Sabtu (25/6/2022).",
+        "isoDate": "2022-06-25T09:21:22.000Z"
+      },
+      {
+        "title": "Aset Kripto Kembali Menghijau, Sudah Mencapai Titik Balik?",
+        "link": "https://www.cnbcindonesia.com/market/20220625131800-20-350290/aset-kripto-kembali-menghijau-sudah-mencapai-titik-balik",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/04/infografis-kripto-sepekan_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Koin kripto kompak menguat.",
+        "isoDate": "2022-06-25T09:15:00.000Z"
+      },
+      {
+        "title": "Tol Cibitung-Cilincing Hampir Rampung, Priok-Jaktim 30 Menit",
+        "link": "https://www.cnbcindonesia.com/news/20220624152213-8-350108/tol-cibitung-cilincing-hampir-rampung-priok-jaktim-30-menit",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/24/tol-cibitung-cilincing-hampir-rampung-priok-jaktim-cuma-30-menit_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Tol Cibitung-Cilincing Hampir Rampung, Priok-Jaktim Cuma 30 Menit!",
+        "isoDate": "2022-06-25T09:05:01.000Z"
+      },
+      {
+        "title": "Lagi Liburan di Bali? Ada Diskon Makan 30% nih dari Allo Bank",
+        "link": "https://www.cnbcindonesia.com/mymoney/20220625154137-72-350317/lagi-liburan-di-bali-ada-diskon-makan-30-nih-dari-allo-bank",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/10/15/sushi-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Untuk hemat selama di Bali, wisatawan bisa mencoba ke Trans Studio Mall Bali di Jln. Imam Bonjol No. 440, Denpasar. Pengunjung bisa mendapatkan promo makanan.",
+        "isoDate": "2022-06-25T09:01:14.000Z"
+      },
+      {
+        "title": "Gegara Ini, Dua Bos Induk Situs Pornhub Mengundurkan Diri",
+        "link": "https://www.cnbcindonesia.com/tech/20220625134811-37-350294/gegara-ini-dua-bos-induk-situs-pornhub-mengundurkan-diri",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/09/01/ilustrasi-industri-porno_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Dua petinggi situs porno Pornhub mengundurkan diri.",
+        "isoDate": "2022-06-25T09:00:00.000Z"
+      },
+      {
+        "title": "Eks Jenderal Rusia Sebut London Bakal Hancur Pertama di PD 3",
+        "link": "https://www.cnbcindonesia.com/news/20220625133640-4-350292/eks-jenderal-rusia-sebut-london-bakal-hancur-pertama-di-pd-3",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/05/parade-milter-rusia-peringatan-kemenangan-atas-nazi-jerman-dalam-perang-dunia-ii-7_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Ketegangan antara Rusia dan negara-negara Barat terus memuncak.",
+        "isoDate": "2022-06-25T08:45:00.000Z"
+      },
+      {
+        "title": "Penjelasan Luhut Soal Beli Migor Harus Pakai PeduliLindungi",
+        "link": "https://www.cnbcindonesia.com/news/20220625145559-8-350307/penjelasan-luhut-soal-beli-migor-harus-pakai-pedulilindungi",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/penjelasan-luhut-soal-beli-migor-harus-pakai-pedulilindungi-cnbc-indonesia-tv_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Penjelasan Luhut Beli Migor Harus Pakai PeduliLindungi",
+        "isoDate": "2022-06-25T08:33:26.000Z"
+      },
+      {
+        "title": "Ini 10 Orang Terkaya Sepanjang Sejarah, Hartanya Unlimited!",
+        "link": "https://www.cnbcindonesia.com/market/20220625132921-17-350291/ini-10-orang-terkaya-sepanjang-sejarah-hartanya-unlimited",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2020/10/12/john-d-rockefeller-wikipedia_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Saat ini, orang terkaya dunia diduduki oleh bos Tesla, Elon Musk. Namun, sebelumnya pernah ada orang yang jauh lebih kaya darinya.",
+        "isoDate": "2022-06-25T08:30:00.000Z"
+      },
+      {
+        "title": "Tren Pergerakan IHSG Satu Pekan Terakhir",
+        "link": "https://www.cnbcindonesia.com/market/20220625125301-20-350288/tren-pergerakan-ihsg-satu-pekan-terakhir",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/04/infografis-pergerakan-ihsg-sepekan_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Data bursa mengungkapkan, secara mingguan IHSG mampu naik dan kembali ke level 7.000 setelah dua pekan beruntun melemah secara mingguan.",
+        "isoDate": "2022-06-25T08:15:08.000Z"
+      },
+      {
+        "title": "Mengintip Top Gainers dan Losers IHSG Sepekan",
+        "link": "https://www.cnbcindonesia.com/market/20220625143639-20-350304/mengintip-top-gainers-losers-ihsg-sepekan",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/04/infografis-saham-top-gainers-top-losers-sepekan_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Indeks Harga Saham Gabungan (IHSG) tercatat mengalami penguatan pekan ini meski masih dibayangi sinyal negatif terkait kenaikan suku The Fed.",
+        "isoDate": "2022-06-25T08:10:00.000Z"
+      },
+      {
+        "title": "Vaksin Perkuat Imunitas, Senjata Lawan Omicron BA.4 dan BA.5",
+        "link": "https://www.cnbcindonesia.com/news/20220623112939-8-349631/vaksin-perkuat-imunitas-senjata-lawan-omicron-ba4-ba5",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/23/vaksin-perkuat-imunitas-senjata-lawan-omicron-ba4-ba5-cnbc-indonesia-tv_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Vaksin Perkuat Imunitas, Senjata Lawan Omicron BA.4 dan BA.5",
+        "isoDate": "2022-06-25T08:02:55.000Z"
+      },
+      {
+        "title": "Pergerakan Rupiah Sepekan 18 Juni-22 Juni 2022",
+        "link": "https://www.cnbcindonesia.com/market/20220625120657-20-350279/pergerakan-rupiah-sepekan-18-juni-22-juni-2022",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/04/infografis-pergerakan-rupiah-sepekan_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Berikut pergerakan kurs rupiah selama sepekan terakhir.",
+        "isoDate": "2022-06-25T08:00:05.000Z"
+      },
+      {
+        "title": "Israel Temukan Masjid Tertua di Dunia, Posisi Menghadap Kabah",
+        "link": "https://www.cnbcindonesia.com/news/20220625125036-4-350287/israel-temukan-masjid-tertua-di-dunia-posisi-menghadap-kabah",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/07/19/jemaah-haji-mengelilingi-kabah_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Menurut tim arkeolog, posisi situs bangunan kuno itu menghadap ke arah Makkah, Arab Saudi, tempat Kabah berada.",
+        "isoDate": "2022-06-25T07:45:36.000Z"
+      },
+      {
+        "title": "Tren Pergerakan Emas Sepekan",
+        "link": "https://www.cnbcindonesia.com/investment/20220625122541-24-350282/tren-pergerakan-emas-sepekan",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/03/26/infografis-pergerakan-harga-emas-sepekan_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Dalam sebulan, harga emas juga tercatat menyusut 2,1% sementara dalam setahun masih menguat 2,9%.",
+        "isoDate": "2022-06-25T07:45:02.000Z"
+      },
+      {
+        "title": "Koin Kripto Kompak Menguat Pekan Ini, Kok Bisa?",
+        "link": "https://www.cnbcindonesia.com/market/20220625134003-17-350293/koin-kripto-kompak-menguat-pekan-ini-kok-bisa",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/19/tesla-muskdogecoin-2_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Setelah sempat kebakaran dalam beberapa pekan sebelumnya, harga aset digital di pasar kripto tercatat kompak menguat pekan ini.",
+        "isoDate": "2022-06-25T07:40:00.000Z"
+      },
+      {
+        "title": "Hutama Karya dan JICA Gelar Diskusi Soal Teknik Perbaikan Tanah",
+        "link": "https://www.cnbcindonesia.com/news/20220625142226-4-350303/hutama-karya-jica-gelar-diskusi-soal-teknik-perbaikan-tanah",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/hutama-karya_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Pengembangan teknik perbaikan dan improvisasi tanah menjadi salah satu kunci keberhasilan dalam menyelesaikan mandat pemerintah, membangun Tol Trans Sumatera.",
+        "isoDate": "2022-06-25T07:39:25.000Z"
+      },
+      {
+        "title": "Emas Dunia Masih Melemah, Gak Kuat Lawan The Fed?",
+        "link": "https://www.cnbcindonesia.com/market/20220625124305-17-350286/emas-dunia-masih-melemah-gak-kuat-lawan-the-fed",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/24/emas-batangan-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Dalam sebulan, harga emas juga tercatat menyusut 2,1% sementara dalam setahun masih menguat 2,9%.",
+        "isoDate": "2022-06-25T07:30:51.000Z"
+      },
+      {
+        "title": "Eks Bos WHO Ungkap Penyebab yang Bikin Covid-19 RI Naik Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220625123549-4-350285/eks-bos-who-ungkap-penyebab-yang-bikin-covid-19-ri-naik-lagi",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/21/pertemuan-dirjen-who-dan-jokowi_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Ini menjadi penambahan tertinggi sejak kasus harian sempat turun hingga di bawah 1.000 di bulan April lalu.",
+        "isoDate": "2022-06-25T07:15:17.000Z"
+      },
+      {
+        "title": "Meski Keok Lawan Dolar AS, Kinerja Rupiah Mulai Membaik",
+        "link": "https://www.cnbcindonesia.com/market/20220625130450-17-350289/meski-keok-lawan-dolar-as-kinerja-rupiah-mulai-membaik",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/21/ilustrasi-dolar-rupiah-money-changer-cnbc-indonesiaandrean-krstianto-2_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Nilai tukar rupiah kembali melemah melawan dolar Amerika Serikat (AS) pada perdagangan pekan ini.",
+        "isoDate": "2022-06-25T07:10:53.000Z"
+      },
+      {
+        "title": "Tekan Impor, Industri Alkes Butuh Bahan Baku \"Medical Grade\"",
+        "link": "https://www.cnbcindonesia.com/market/20220623162106-19-349765/tekan-impor-industri-alkes-butuh-bahan-baku-medical-grade",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/23/tekan-impor-industri-alkes-butuh-bahan-baku-lokal-medical-gradecnbc-indonesia-tv_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Tekan Impor, Industri Alkes Butuh Bahan Baku Lokal \"Medical Grade\"",
+        "isoDate": "2022-06-25T07:01:37.000Z"
+      },
+      {
+        "title": "Situasi Makin Ngeri, 5 Negara Eropa Ini Sudah 'Teriak' Krisis",
+        "link": "https://www.cnbcindonesia.com/news/20220625121914-4-350283/situasi-makin-ngeri-5-negara-eropa-ini-sudah-teriak-krisis",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/24/benua-biru-krisis-energi-separah-apa-efeknya-ke-ekonomi-eropa-cnbc-indonesia-tv_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Negara-negara di Eropa kini tengah terancam krisis energi.",
+        "isoDate": "2022-06-25T07:00:49.000Z"
+      },
+      {
+        "title": "Gaji 13 PNS Cairnya Bakal Dipercepat? Cek Jadwal dan Besarannya",
+        "link": "https://www.cnbcindonesia.com/news/20220625121515-4-350281/gaji-13-pns-cairnya-bakal-dipercepat-cek-jadwal-besarannya",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/27/cihuy-pns-bisa-work-from-anywhere-cnbc-indonesia-tv_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Pemerintah memastikan akan memberikan gaji ke-13 bagi seluruh ASN untuk tahun 2022 dan dipercepat dilakukan pada bulan Juli mendatang.",
+        "isoDate": "2022-06-25T06:40:15.000Z"
+      },
+      {
+        "title": "Bangkai Kapal Terdalam Ditemukan, Ada Di Sini",
+        "link": "https://www.cnbcindonesia.com/news/20220625120713-4-350280/bangkai-kapal-terdalam-ditemukan-ada-di-sini",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/17/kapal-induk-tipe-003-china-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Bangkai kapal itu ditemukan di perairan Laut Filipina dengan kedalaman 6.895 m di bawah permukaan laut.",
+        "isoDate": "2022-06-25T06:20:00.000Z"
+      },
+      {
+        "title": "Alasan Pemerintah Belum Tetapkan Wabah PMK Ternak Jadi KLB",
+        "link": "https://www.cnbcindonesia.com/news/20220622123917-8-349313/alasan-pemerintah-belum-tetapkan-wabah-pmk-ternak-jadi-klb",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/23/alasan-pemerintah-belum-tetapkan-wabah-pmk-ternak-jadi-klb-cnbc-indonesia-tv_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Alasan Pemerintah Belum Tetapkan Wabah PMK Ternak Jadi KLB",
+        "isoDate": "2022-06-25T06:01:27.000Z"
+      },
+      {
+        "title": "AS Kirim Pesawat ke Selat Taiwan, Xi Jinping Ngamuk",
+        "link": "https://www.cnbcindonesia.com/news/20220625120038-4-350278/as-kirim-pesawat-ke-selat-taiwan-xi-jinping-ngamuk",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/24/rusia-minggir-giliran-china-ngamuk-ke-as_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Wilayah itu sendiri diketahui menjadi pusat ketegangan terbesar antara Washington dan Taiwan yang menghadapi China.",
+        "isoDate": "2022-06-25T06:00:00.000Z"
+      },
+      {
+        "title": "Bos PTBA Raih Penghargaan Berskala Internasional Gegara Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220625122657-4-350284/bos-ptba-raih-penghargaan-berskala-internasional-gegara-ini",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/ptba-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Arsal Ismail menerima penghargaan berdasarkan pertimbangan kebijakan yang dilakukan di bidang leadership, inovasi, sosial kemasyarakatan, dan lingkungan.",
+        "isoDate": "2022-06-25T05:51:58.000Z"
+      },
+      {
+        "title": "Amsyong, Saham-Saham Ini Ambles 25% Lebih Pekan Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220625105932-17-350270/amsyong-saham-saham-ini-ambles-25-lebih-pekan-ini",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2018/04/27/0a497120-6ca4-4e92-9b93-add6f199ddc1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Data bursa mencatat secara mingguan IHSG mampu naik dan kembali ke level 7.000 setalah dua pekan beruntun melemah secara mingguan.",
+        "isoDate": "2022-06-25T05:40:17.000Z"
+      },
+      {
+        "title": "Balik ke Level 7.000, IHSG Putus Pelemahan Dua Pekan Beruntun",
+        "link": "https://www.cnbcindonesia.com/market/20220625103429-17-350268/balik-ke-level-7000-ihsg-putus-pelemahan-dua-pekan-beruntun",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/11/22/mobil-tabrak-parade-natal-di-wisconsin-as-14_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Artinya, secara mingguan IHSG mampu naik dan kembali ke level 7.000 setalah dua pekan beruntun melemah secara mingguan.",
+        "isoDate": "2022-06-25T05:20:00.000Z"
+      },
+      {
+        "title": "Inflasi Naik, UOB Indonesia Revisi Proyeksi PDB RI Jadi 4,8%",
+        "link": "https://www.cnbcindonesia.com/market/20220622101422-19-349233/inflasi-naik-uob-indonesia-revisi-proyeksi-pdb-ri-jadi-48",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/22/inflasi-naik-uob-indonesia-revisi-proyeksi-pdb-ri-2022-menjadi-48-cnbc-indonesia-tv_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Inflasi Naik, UOB Indonesia Revisi Proyeksi PDB RI 2022 Menjadi 4,8%",
+        "isoDate": "2022-06-25T05:01:46.000Z"
+      },
+      {
+        "title": "Selain Sri Lanka, Negara Ini Punya Nasib Sama Soal Ekonomi",
+        "link": "https://www.cnbcindonesia.com/news/20220624172821-7-350204/selain-sri-lanka-negara-ini-punya-nasib-sama-soal-ekonomi",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/24/lebanon-sri-lanka-collapse_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Lebanon dan Sri Lanka adalah dua negara yang terpisah, tetapi mereka memiliki kesamaan sejarah gejolak politik dan kekerasan yang menyebabkan runtuhnya ekonomi.",
+        "isoDate": "2022-06-25T05:00:01.000Z"
+      },
+      {
+        "title": "Pakar Militer: Putin Membangunkan Raksasa yang Sedang Tidur",
+        "link": "https://www.cnbcindonesia.com/news/20220625101353-4-350267/pakar-militer-putin-membangunkan-raksasa-yang-sedang-tidur",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/24/ukraine-crisis-4_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Raksasa itu adalah negara-negara Eropa, yang menyatakan sikap berlawanan terhadap aksi Rusia itu.",
+        "isoDate": "2022-06-25T04:40:00.000Z"
+      },
+      {
+        "title": "Masih Stabil, Harga Buyback Emas Antam Naik Hari Ini",
+        "link": "https://www.cnbcindonesia.com/investment/20220625095735-21-350266/masih-stabil-harga-buyback-emas-antam-naik-hari-ini",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/06/22/emas-antam_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Sementara, untuk buyback (harga yang digunakan ketika menjual emas kembali) tercatat naik Rp 1.000 menjadi Rp 871.000/gram.",
+        "isoDate": "2022-06-25T04:20:03.000Z"
+      },
+      {
+        "title": "Ini Bukti Pertamina Dukung Infrastruktur dan Program Pemerintah",
+        "link": "https://www.cnbcindonesia.com/news/20220625104118-4-350269/ini-bukti-pertamina-dukung-infrastruktur-program-pemerintah",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/24/pertamina-patra-niaga_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Produk Aspal Pertamina Patra Niaga diproduksi di Kilang Cilacap dan didistribusikan ke seluruh nusantara.",
+        "isoDate": "2022-06-25T04:11:58.000Z"
+      },
+      {
+        "title": "Krisis Bahan Baku Impor, Pengusaha Mamin Buru Pemasok Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220622105656-8-349251/krisis-bahan-baku-impor-pengusaha-mamin-buru-pemasok-baru",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/22/ancaman-krisis-bahan-baku-impor-pengusaha-mamin-buru-pemasok-baru-cnbc-indonesia-tv_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Ancaman Krisis Bahan Baku Impor, Pengusaha Mamin Buru Pemasok Baru",
+        "isoDate": "2022-06-25T04:03:41.000Z"
+      },
+      {
+        "title": "Harga Emas Pegadaian Turun, Waktunya Koleksi Bun?",
+        "link": "https://www.cnbcindonesia.com/investment/20220625092257-21-350263/harga-emas-pegadaian-turun-waktunya-koleksi-bun",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2021/04/22/pegawai-merapikan-emas-batangan-di-galeri-24-pegadaian-jakarta-kamis-2242021-harga-emas-batangan-yang-dijual-pegadaian-mengala-1_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Berbagai emas tersebut dijual dengan ukuran berat yang juga beragam, mulai dari 0,5 gram hingga 1.000 gram.",
+        "isoDate": "2022-06-25T04:00:49.000Z"
+      },
+      {
+        "title": "Terungkap, Alasan SCMA Investasi di Perusahaan Raffi Ahmad",
+        "link": "https://www.cnbcindonesia.com/market/20220625085823-17-350262/terungkap-alasan-scma-investasi-di-perusahaan-raffi-ahmad",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/17/raffi-ahmad_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "SCMA menyebut bahwa Investasi yang dilakukan oleh perusahaan dapat memungkinkan sinergi antara RANS dan SCM secara optimal.",
+        "isoDate": "2022-06-25T03:40:00.000Z"
+      },
+      {
+        "title": "Rencana Mulia di Balik Honorer Dihapus, Baca Baik-baik Ya!",
+        "link": "https://www.cnbcindonesia.com/news/20220625084837-4-350260/rencana-mulia-di-balik-honorer-dihapus-baca-baik-baik-ya",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/05/11/infografis-pns-siap-siap-kerja-dengan-gaya-baru-wfa-work-from-anywhere_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Pemerintah berencana untuk menghapus status tenaga kerja honorer.",
+        "isoDate": "2022-06-25T03:20:37.000Z"
+      },
+      {
+        "title": "Ramai-Ramai Negara Eropa 'Teriak' Krisis Energi",
+        "link": "https://www.cnbcindonesia.com/news/20220624101327-8-349948/ramai-ramai-negara-eropa-teriak-krisis-energi",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/24/ramai-ramai-negara-eropa-teriak-krisis-energi_169.png?w=360&q=100"
+        },
+        "contentSnippet": "Uni Eropa tengah menghadapi krisis energi imbas sanksi larangan impor dari Rusia",
+        "isoDate": "2022-06-25T03:01:39.000Z"
+      },
+      {
+        "title": "Ini Penyebab Avanza Keok, Ada Yang Laku Cuma 7 Unit",
+        "link": "https://www.cnbcindonesia.com/news/20220625084511-4-350259/ini-penyebab-avanza-keok-ada-yang-laku-cuma-7-unit",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/04/20/mobil-penghancur-avanza-tak-diduga-terlaris-di-ri_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Hal ini terungkap dari data penjualan Gabungan Industri Kendaraan Bermotor Indonesia (Gaikindo).",
+        "isoDate": "2022-06-25T03:00:11.000Z"
+      },
+      {
+        "title": "Jelang HUT Bhayangkara, Polri Adakan Gowes 508 kilometer",
+        "link": "https://www.cnbcindonesia.com/news/20220625094318-4-350265/jelang-hut-bhayangkara-polri-adakan-gowes-508-kilometer",
+        "enclosure": {
+          "length": "25000",
+          "type": "image/jpeg",
+          "url": "https://awsimages.detik.net.id/visual/2022/06/25/polri_169.jpeg?w=360&q=100"
+        },
+        "contentSnippet": "Kegiatan ini sesuai dengan semangat Kapolri Jenderal Listyo Sigit Prabowo untuk mendukung pemulihan ekonomi.",
+        "isoDate": "2022-06-25T02:57:10.000Z"
+      }
+    ]
+  }
+}

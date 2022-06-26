@@ -1,0 +1,148 @@
+{
+  "result": {
+    "success": true,
+    "message": "success",
+    "data": [
+      {
+        "province": "Maluku",
+        "city": "Seram Bagian Timur",
+        "subdistrict": "Bula Barat",
+        "urban": "Jakarta Baru",
+        "postalcode": "97554"
+      },
+      {
+        "province": "Lampung",
+        "city": "Pringsewu",
+        "subdistrict": "Gading Rejo",
+        "urban": "Yogyakarta (Jogjakarta)",
+        "postalcode": "35372"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Kepulauan Seribu",
+        "subdistrict": "Kepulauan Seribu Utara",
+        "urban": "Pulau Harapan",
+        "postalcode": "14540"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Kepulauan Seribu",
+        "subdistrict": "Kepulauan Seribu Utara",
+        "urban": "Pulau Kelapa",
+        "postalcode": "14540"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Kepulauan Seribu",
+        "subdistrict": "Kepulauan Seribu Selatan",
+        "urban": "Pulau Tidung",
+        "postalcode": "14520"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Kepulauan Seribu",
+        "subdistrict": "Kepulauan Seribu Utara",
+        "urban": "Pulau Panggang",
+        "postalcode": "14530"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Kepulauan Seribu",
+        "subdistrict": "Kepulauan Seribu Selatan",
+        "urban": "Pulau Untung Jawa",
+        "postalcode": "14510"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Kepulauan Seribu",
+        "subdistrict": "Kepulauan Seribu Selatan",
+        "urban": "Pulau Pari",
+        "postalcode": "14520"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Penjaringan",
+        "urban": "Kamal Muara",
+        "postalcode": "14470"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Penjaringan",
+        "urban": "Pluit",
+        "postalcode": "14450"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Penjaringan",
+        "urban": "Kapuk Muara",
+        "postalcode": "14460"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Penjaringan",
+        "urban": "Pejagalan",
+        "postalcode": "14450"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Pademangan",
+        "urban": "Ancol",
+        "postalcode": "14430"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Penjaringan",
+        "urban": "Penjaringan",
+        "postalcode": "14440"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Pademangan",
+        "urban": "Pademangan Timur",
+        "postalcode": "14410"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Pademangan",
+        "urban": "Pademangan Barat",
+        "postalcode": "14420"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Tanjung Priok",
+        "urban": "Sunter Jaya",
+        "postalcode": "14360"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Tanjung Priok",
+        "urban": "Warakas",
+        "postalcode": "14370"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Tanjung Priok",
+        "urban": "Papanggo",
+        "postalcode": "14340"
+      },
+      {
+        "province": "DKI Jakarta",
+        "city": "Jakarta Utara",
+        "subdistrict": "Tanjung Priok",
+        "urban": "Sunter Agung",
+        "postalcode": "14350"
+      }
+    ]
+  }
+}

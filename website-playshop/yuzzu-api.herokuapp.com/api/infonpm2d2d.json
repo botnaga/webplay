@@ -1,0 +1,236 @@
+{
+  "status": true,
+  "creator": "@yuzzukamiyaka",
+  "result": {
+    "_id": "yuzzu-api",
+    "_rev": "4-48e6cc91b9efabe02cc5d60da87b558b",
+    "name": "yuzzu-api",
+    "dist-tags": {
+      "latest": "1.0.2"
+    },
+    "versions": {
+      "1.0.0": {
+        "name": "yuzzu-api",
+        "version": "1.0.0",
+        "description": "yuzzu-apis",
+        "main": "index.js",
+        "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1"
+        },
+        "repository": {
+          "type": "git",
+          "url": "git+https://github.com/YuzzuKamiyaka/yuzzu-apis.git"
+        },
+        "keywords": [
+          "ANAKNGEN"
+        ],
+        "author": {
+          "name": "YuzzuKamiyaka"
+        },
+        "license": "ISC",
+        "bugs": {
+          "url": "https://github.com/YuzzuKamiyaka/yuzzu-apis/issues"
+        },
+        "homepage": "https://github.com/YuzzuKamiyaka/yuzzu-apis#readme",
+        "dependencies": {
+          "axios": "^0.21.1",
+          "cheerio": "^1.0.0-rc.10",
+          "qs": "^6.10.1"
+        },
+        "directories": {
+          "lib": "lib"
+        },
+        "_id": "yuzzu-api@1.0.0",
+        "_nodeVersion": "16.11.1",
+        "_npmVersion": "8.0.0",
+        "dist": {
+          "integrity": "sha512-sHlOLJ7/48HlMVwUi14/yYCzboy0iHB4SjIAoCF6RV8cXdJjV9kCAThvxmbi42/KV4DiWZ/ZVBrkrZk/SAEK+Q==",
+          "shasum": "01e74e85e5efed2e7d3ef8eea775d519d5706a24",
+          "tarball": "https://registry.npmjs.org/yuzzu-api/-/yuzzu-api-1.0.0.tgz",
+          "fileCount": 4,
+          "unpackedSize": 41499,
+          "signatures": [
+            {
+              "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+              "sig": "MEQCIDot8Rrb3+PzkAbTCm1dWcBXmFrKeE+e8kI8OINfS50XAiA6GQRg9JwktTg8rayq1oRVoN9SFcBLaPlici7wT3S4KQ=="
+            }
+          ]
+        },
+        "_npmUser": {
+          "name": "yuzzukamiyaka",
+          "email": "freefireputu@gmail.com"
+        },
+        "maintainers": [
+          {
+            "name": "yuzzukamiyaka",
+            "email": "freefireputu@gmail.com"
+          }
+        ],
+        "_npmOperationalInternal": {
+          "host": "s3://npm-registry-packages",
+          "tmp": "tmp/yuzzu-api_1.0.0_1634717328255_0.2352198588501051"
+        },
+        "_hasShrinkwrap": false
+      },
+      "1.0.1": {
+        "name": "yuzzu-api",
+        "version": "1.0.1",
+        "description": "yuzzu-apis",
+        "main": "index.js",
+        "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1"
+        },
+        "repository": {
+          "type": "git",
+          "url": "git+https://github.com/YuzzuKamiyaka/yuzzu-apis.git"
+        },
+        "keywords": [
+          "ANAKNGEN"
+        ],
+        "author": {
+          "name": "YuzzuKamiyaka"
+        },
+        "license": "ISC",
+        "bugs": {
+          "url": "https://github.com/YuzzuKamiyaka/yuzzu-apis/issues"
+        },
+        "homepage": "https://github.com/YuzzuKamiyaka/yuzzu-apis#readme",
+        "dependencies": {
+          "axios": "^0.21.1",
+          "cheerio": "^1.0.0-rc.10",
+          "qs": "^6.10.1"
+        },
+        "directories": {
+          "lib": "lib"
+        },
+        "_id": "yuzzu-api@1.0.1",
+        "_nodeVersion": "16.11.1",
+        "_npmVersion": "8.0.0",
+        "dist": {
+          "integrity": "sha512-UmXtNw/uRp4RbuMVJuKsNx3I6HE8gvJHCwlr+Ax892fKsOMorSAVvne0+44O8ZE0jEoA0DhwDm4gV4O0YgO1sA==",
+          "shasum": "9100ff363f89bcacdc0baa667523ed75ec81098a",
+          "tarball": "https://registry.npmjs.org/yuzzu-api/-/yuzzu-api-1.0.1.tgz",
+          "fileCount": 4,
+          "unpackedSize": 41499,
+          "signatures": [
+            {
+              "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+              "sig": "MEUCIQDr8ai2zQgJou3UgLvvwlTN/BafhUNglEySpQ8ZlapekAIgX6Q4ksnlKbYWM0IB0cHABzp/LsbggsveMI8qVJaVMK0="
+            }
+          ]
+        },
+        "_npmUser": {
+          "name": "yuzzukamiyaka",
+          "email": "freefireputu@gmail.com"
+        },
+        "maintainers": [
+          {
+            "name": "yuzzukamiyaka",
+            "email": "freefireputu@gmail.com"
+          }
+        ],
+        "_npmOperationalInternal": {
+          "host": "s3://npm-registry-packages",
+          "tmp": "tmp/yuzzu-api_1.0.1_1634717692655_0.9141253981921513"
+        },
+        "_hasShrinkwrap": false
+      },
+      "1.0.2": {
+        "name": "yuzzu-api",
+        "version": "1.0.2",
+        "description": "yuzzu-apis",
+        "main": "index.js",
+        "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1"
+        },
+        "repository": {
+          "type": "git",
+          "url": "git+https://github.com/YuzzuKamiyaka/yuzzu-apis.git"
+        },
+        "keywords": [
+          "ANAKNGEN"
+        ],
+        "author": {
+          "name": "YuzzuKamiyaka"
+        },
+        "license": "ISC",
+        "bugs": {
+          "url": "https://github.com/YuzzuKamiyaka/yuzzu-apis/issues"
+        },
+        "homepage": "https://github.com/YuzzuKamiyaka/yuzzu-apis#readme",
+        "dependencies": {
+          "axios": "^0.21.1",
+          "cheerio": "^1.0.0-rc.10",
+          "qs": "^6.10.1"
+        },
+        "directories": {
+          "lib": "lib"
+        },
+        "_id": "yuzzu-api@1.0.2",
+        "_nodeVersion": "16.11.1",
+        "_npmVersion": "8.0.0",
+        "dist": {
+          "integrity": "sha512-KynItAmG0k3MkQbQmPElPZA4U6Te/tBpP7EcxMBnsXEc3fzk4DFJGKdRFdjZHRKyzXr5VK9b/XD+wn/3F4LsYA==",
+          "shasum": "7260f60f29abafec2456cf0169a0cece15456eca",
+          "tarball": "https://registry.npmjs.org/yuzzu-api/-/yuzzu-api-1.0.2.tgz",
+          "fileCount": 4,
+          "unpackedSize": 41476,
+          "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh3CbKCRA9TVsSAnZWagAA/TgP/3AiNQ+B8S7xllG64nUn\nNPtN0Kjy7pz8KdHZzUFMduHl1XEFrmmKpvslCMKBnuf5EKabMw5mKjuzh2vz\nL0jZrxrKuaz8BlQU80VZ4igL7AixWjJ3B9ug+8+PRZ8Kv4qKHFlB91NyUaAP\nlYdZY91fi7gf1mguANZzawDTINcG4FAE2QVBv6M7+6txb1Y3HRwyEnCGx0pa\nWsDzn9pcC1jqlePz38lsmtpehhFT+XSBL8axVQh84XMSkKllnsLMwhkcGY3U\nIxD8fllBKLKOE6zEzsNnxANOhGdO75aJBHW8jwmGmnAvBZpgDmSOgX7QZp/y\necaA3efq+zB1X94+emMlu1ZfIXWieuF38WHKrsCFS+a42RvhLKCSKN7L64ba\nCZXCpFgg1jNZWFuHHDi/+oOhNGeQEpX06Jb9tEcTvG1KxFqN4aIOTCkHrwA6\nNIMjDT5rjn6kKlwOpQljEDpjp/WufMKFGo/pKgZ/hCh8oi9JkQZsXaIfFjbd\neBxWm7QjVgfM3/beXlJDUly+hMGQTb1XOCX/gtnt2XxtYoRaZ0KRI0//KvKn\nLMKXTTCcyZwVWDJLopv9df1ajdpkH4LayRf43OElnCV0sTVtPmZ3BzcvSAFC\nEAULL/OTdBGGWhdYBYprBOlP5P1vgQAV8OgoapJS9YmZ7tsca5KuIMAKcDxj\nCijX\r\n=nuxT\r\n-----END PGP SIGNATURE-----\r\n",
+          "signatures": [
+            {
+              "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+              "sig": "MEUCIBprK6OqKQDj+kpnfhGdJldCBbw38ACy+OmAECMIS/5EAiEA9kD33Gofw+I/bPNdN12c1O0EvcBs+OzXsdZn+B+hOlo="
+            }
+          ]
+        },
+        "_npmUser": {
+          "name": "yuzzukamiyaka",
+          "email": "freefireputu@gmail.com"
+        },
+        "maintainers": [
+          {
+            "name": "yuzzukamiyaka",
+            "email": "freefireputu@gmail.com"
+          }
+        ],
+        "_npmOperationalInternal": {
+          "host": "s3://npm-registry-packages",
+          "tmp": "tmp/yuzzu-api_1.0.2_1634718621508_0.9247792894845155"
+        },
+        "_hasShrinkwrap": false
+      }
+    },
+    "time": {
+      "created": "2021-10-20T08:08:48.255Z",
+      "1.0.0": "2021-10-20T08:08:48.407Z",
+      "modified": "2022-05-25T09:16:00.611Z",
+      "1.0.1": "2021-10-20T08:14:52.793Z",
+      "1.0.2": "2021-10-20T08:30:21.658Z"
+    },
+    "maintainers": [
+      {
+        "name": "yuzzukamiyaka",
+        "email": "freefireputu@gmail.com"
+      }
+    ],
+    "description": "yuzzu-apis",
+    "homepage": "https://github.com/YuzzuKamiyaka/yuzzu-apis#readme",
+    "keywords": [
+      "ANAKNGEN"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/YuzzuKamiyaka/yuzzu-apis.git"
+    },
+    "author": {
+      "name": "YuzzuKamiyaka"
+    },
+    "bugs": {
+      "url": "https://github.com/YuzzuKamiyaka/yuzzu-apis/issues"
+    },
+    "license": "ISC",
+    "readme": "<div align=\"center\">\r\n<img src=\"https://i.pinimg.com/736x/9c/3b/4c/9c3b4c820f692afdf10b60ec0a022ae4.jpg\" alt=\"Yuzzu\" width=\"170\" />\r\n\r\n## YUZZU-API'S\r\n\r\n</div>\r\n\r\n<p align=\"center\">\r\n<a href=\"##\"><img title=\"yuzzu-apis\" src=\"https://img.shields.io/static/v1?label=package&message=yuzzu-apis&color=red\"></a>\r\n</p>\r\n<p align=\"center\">\r\n  <a href=\"https://youtube.com/c/YuzzuKamiyaka\"><img title=\"Author\" src=\"https://img.shields.io/badge/YouTube-YuzzuKamiyaka-red.svg?style=for-the-badge&logo=youtube\" /></a>\r\n</p>\r\n<p align=\"center\">\r\n  <a href=\"https://instagram.com/bala.dasa_\"><img src=\"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white\"/> \r\n  <a href=\"https://wa.me/6281337541779\"><img src=\"https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white\" /><br>\r\n</p>\r\n\r\n## ```INSTALL And UNINSTALL```\r\n> npm install yuzzu-api\r\n>  \r\n> npm uninstall yuzzu-api\r\n\r\n\r\n## ```Instagram```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst link = 'https://www.instagram.com/p/CVNkCZphLDI/?utm_medium=copy_link'\r\n\r\nyz.igdl(link)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n## ```Wiki```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst judul = 'indonesia'\r\n\r\nyz.wiki(judul)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```MediaFire```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst link = 'https://www.mediafire.com/file/sazboe4v31szd0m/b%252Atch-bot.zip/file'\r\n\r\nyz.mediafire(link)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Tik Tok```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst link = 'https://vt.tiktok.com/ZSeFf3Akc'\r\n\r\nyz.tiktok(link)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Herodetail```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst hero = 'Kagura'\r\n\r\nyz.herodetail(hero)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Herolist```\r\n``` \r\nconst yz = require('yuzzu-api');\r\n\r\nyz.herolist()\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Shoppe```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst judul = 'Baju'\r\nconst limit = '10'\r\n\r\nyz.shoppe(judul, limit)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Otaku```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst judul = 'Naruto'\r\n\r\nyz.otaku(judul)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Film Search```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst judul = 'Raya'\r\n\r\nyz.film(judul)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Covid```\r\n``` \r\nconst yz = require('yuzzu-api');\r\n\r\nyz.covid()\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Twitter```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst link = 'Link Twitter -_-'\r\n\r\nyz.twitter(link)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Pinterest```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst judul = 'Anime'\r\n\r\nyz.pinterest(judul)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```IG Story```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst user = 'jeromepolin'\r\n\r\nyz.igstory(user)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```IG Stalk```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst user = 'jeromepolin'\r\n\r\nyz.igstalk(link)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n\r\n## ```YouTube```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst link = 'https://youtu.be/NuaJynwvdIE'\r\n\r\nyz.ytdl(link)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n## ```Facebook```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst link = 'Link Facebook -_-'\r\n\r\nyz.fbdown(link)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ``` Play Store```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst judul = 'Wibu'\r\n\r\nyz.playstore(judul)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Lirik Lagu```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst judul = ' the nights'\r\n\r\nyz.lirik(judul)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Tebak Gambar```\r\n``` \r\nconst yz = require('yuzzu-api');\r\n\r\nyz.tebakgambar()\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Komik```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst judul = 'Naruto'\r\n\r\nyz.komiku(judul)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Link WhatsApp```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst judul = 'Wibu'\r\n\r\nyz.linkwa(judul)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n\r\n## ```Wattpad```\r\n``` \r\nconst yz = require('yuzzu-api');\r\nconst judul = 'hate'\r\n\r\nyz.wattpad(judul)\r\n    .then(result => {\r\n     console.log(result)\r\n});\r\n```\r\n  # Thanks To\r\n* [`MRHRTZ`](https://github.com/MRHRTZ)\r\n* [`HEXA`](https://github.com/Hexagonz)\r\n  \r\n  \r\n",
+    "readmeFilename": "README.md"
+  },
+  "message": "Eror? lapor ke owner @yuzzukamiyaka"
+}

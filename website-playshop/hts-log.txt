@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 26 Jun 2022 10:55:09 at https://yuzzu-api.herokuapp.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://yuzzu-api.herokuapp.com -O1 "C:\Users\billi\OneDrive\Dokumen\website\website-playshop" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:55:35	Error: 	"Not Found" (404) at link https://yuzzu-api.herokuapp.com/index.html (from https://yuzzu-api.herokuapp.com/home)
+11:01:16	Error: 	"Not Found" (404) at link https://yuzzu-api.herokuapp.com/GET (from https://yuzzu-api.herokuapp.com/home)
+11:01:16	Error: 	"Not Found" (404) at link ajax.googleapis.com/ajax/libs/jqueryui/1/themes/base/jquery-ui.css (from https://yuzzu-api.herokuapp.com/profile)
+11:01:16	Error: 	"Service Unavailable" (503) at link https://yuzzu-api.herokuapp.com/api/googleimage?judul=Anime (from https://yuzzu-api.herokuapp.com/media)
+11:01:16	Error: 	"Service Unavailable" (503) at link https://yuzzu-api.herokuapp.com/api/search/pornhub?query=cute (from https://yuzzu-api.herokuapp.com/media)
+11:01:16	Error: 	"Service Unavailable" (503) at link https://yuzzu-api.herokuapp.com/api/welcome?icon=https://i.ibb.co/KGg5rZy/yuzzu-icon.jpg&name=Yzuzu&bgurl=https://i.ibb.co/4YBNyvP/images-76.jpg&gcname=Yuzzu&mem=200 (from https://yuzzu-api.herokuapp.com/media)
+11:01:16	Error: 	"Service Unavailable" (503) at link https://yuzzu-api.herokuapp.com/api/goodbye?icon=https://i.ibb.co/KGg5rZy/yuzzu-icon.jpg&name=Yuzzu&bgurl=https://i.ibb.co/4YBNyvP/images-76.jpg&gcname=Yuzzu&mem=200 (from https://yuzzu-api.herokuapp.com/media)
+11:01:16	Error: 	"Service Unavailable" (503) at link https://yuzzu-api.herokuapp.com/api/chara?judul=Nino (from https://yuzzu-api.herokuapp.com/anime)
+11:01:16	Warning: 	Found for https://yuzzu-api.herokuapp.com/api/nsfw/
+11:01:16	Warning: 	File has moved from https://yuzzu-api.herokuapp.com/api/nsfw/ to https://yuzzu-api.herokuapp.com/api/nsfw
+11:01:17	Error: 	"Not Found" (404) at link https://yuzzu-api.herokuapp.com/api/nsfw (from https://yuzzu-api.herokuapp.com/api/nsfw/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 8 seconds : 150 links scanned, 139 files written (9565026 bytes overall) [9503391 bytes received at 25824 bytes/sec], 174517 bytes transferred using HTTP compression in 5 files, ratio 32%, 5.3 requests per connection
+(9 errors, 2 warnings, 0 messages)

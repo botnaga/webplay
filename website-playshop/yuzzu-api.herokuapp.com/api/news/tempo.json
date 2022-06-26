@@ -1,0 +1,71 @@
+{
+  "author": "YuzzuKamiyaka",
+  "result": {
+    "code": 200,
+    "status": "OK",
+    "messages": "Result of all news in Tempo News",
+    "total": 10,
+    "data": [
+      {
+        "title": "Keluarga Glazer Dapat Deviden Saat Manchester United Tak Lolos Liga Champions, Suporter Marah",
+        "link": "https://sport.tempo.co/read/1605762/keluarga-glazer-dapat-deviden-saat-manchester-united-tak-lolos-liga-champions-suporter-marah",
+        "content": "Pembayaran dividen yang diberikan kepada pemilik Manchester United (MU), keluarga Glazer, membuat pendukung klub ini marah.",
+        "isoDate": "2022-06-26T03:52:22.000Z"
+      },
+      {
+        "title": "Jokowi Bakal Bahas Upaya Perdamaian Ukraina - Rusia di Pertemuan Negara G7  ",
+        "link": "https://nasional.tempo.co/read/1605761/jokowi-bakal-bahas-upaya-perdamaian-ukraina-rusia-di-pertemuan-negara-g7",
+        "content": "Jokowi mengakui upaya mendamaikan Ukraina dan Rusia bukan hal yang mudah. Namun, ia menyatakan Indonesia tetap bakal mencoba hal tersebut. ",
+        "isoDate": "2022-06-26T03:52:08.000Z"
+      },
+      {
+        "title": "Bagi Dividen Rp 940 Per Saham, Indorama Synthetic: Keuntungan Kami Besar",
+        "link": "https://bisnis.tempo.co/read/1605760/bagi-dividen-rp-940-per-saham-indorama-synthetic-keuntungan-kami-besar",
+        "content": "Emiten milik konglomerat Sri Prakash Lohia PT Indorama Synthetics Tbk. (INDR) bakal membagikan dividen Rp940 per saham dari laba bersih 2021.",
+        "isoDate": "2022-06-26T03:47:44.000Z"
+      },
+      {
+        "title": "Mulai Besok BEI Tutup Kode Investor Asing, Analis: Tantangan Edukasi Diri",
+        "link": "https://bisnis.tempo.co/read/1605758/mulai-besok-bei-tutup-kode-investor-asing-analis-tantangan-edukasi-diri",
+        "content": "Rencana Bursa Efek Indonesia (BEI) menutup kode domisili investor pada Senin 27 Juni 2022, diperkirakan berdampak minim.",
+        "isoDate": "2022-06-26T03:31:26.000Z"
+      },
+      {
+        "title": "Bos Indosurya Dibebaskan, IPW Desak Mahfud Md Turun Tangan",
+        "link": "https://nasional.tempo.co/read/1605757/bos-indosurya-dibebaskan-ipw-desak-mahfud-md-turun-tangan",
+        "content": "Bos Indosurya Henry Surya bebas dari Rutan Bareskrim Polri pada Jumat malam, 24 Juni 2022. Berkas perkaranya belum rampung, masa penahanannya habis.",
+        "isoDate": "2022-06-26T03:31:19.000Z"
+      },
+      {
+        "title": "8 Alasan Perlunya Makan Nanas",
+        "link": "https://gaya.tempo.co/read/1605756/8-alasan-perlunya-makan-nanas",
+        "content": "Selain rasanya enak, nanas mengandung banyak nutrisi penting dan vitamin. Berikut manfaat kesehatan yang bisa didapatkan dari buah nanas.",
+        "isoDate": "2022-06-26T03:23:52.000Z"
+      },
+      {
+        "title": "Penembak Bar Gay di Oslo Keturunan Iran, PM Norwegia: Ekstremis Islam",
+        "link": "https://dunia.tempo.co/read/1605755/penembak-bar-gay-di-oslo-keturunan-iran-pm-norwegia-ekstremis-islam",
+        "content": "Penembak di bar gay Oslo seorang Islamis radikal dengan sejarah penyakit mental yang telah diketahui oleh dinas intelijen sejak 2015",
+        "isoDate": "2022-06-26T03:18:00.000Z"
+      },
+      {
+        "title": "Komisi II DPR RI dan Pemerintah Jaring Aspirasi Masyarakat Papua Soal Tiga RUU DOB",
+        "link": "https://nasional.tempo.co/read/1605754/komisi-ii-dpr-ri-dan-pemerintah-jaring-aspirasi-masyarakat-papua-soal-tiga-ruu-dob",
+        "content": "Kunjungan kerja untuk menjaring aspirasi masyarakat dilakukan Komisi II DPR bersama pemerintah yang diwakili Dirjen Politik dan Pemerintahan Umum (Polpum) Kemendagri.",
+        "isoDate": "2022-06-26T03:12:00.000Z"
+      },
+      {
+        "title": "Kominfo Tegaskan Dewan Pers Satu-satunya Lembaga Sah Sertifikasi Wartawan",
+        "link": "https://nasional.tempo.co/read/1605753/kominfo-tegaskan-dewan-pers-satu-satunya-lembaga-sah-sertifikasi-wartawan",
+        "content": "Kominfo bakal mencabut izin atau rekomendasi sertifikasi wartawan dari lembaga selain Dewan Pers.",
+        "isoDate": "2022-06-26T03:03:15.000Z"
+      },
+      {
+        "title": "Bursa Transfer: Antony Absen Latihan Pramusim Ajax, Rumor Gabung Manchester United Menguat",
+        "link": "https://bola.tempo.co/read/1605747/bursa-transfer-antony-absen-latihan-pramusim-ajax-rumor-gabung-manchester-united-menguat",
+        "content": "Antony santer dikabarkan akan mengikuti mantan bosnya Erik ten Hag yang pindah dari Ajax ke Manchester United.",
+        "isoDate": "2022-06-26T03:03:00.000Z"
+      }
+    ]
+  }
+}
